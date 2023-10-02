@@ -1,0 +1,2233 @@
+topic_id,topic,stance,setting,model_id,ranking
+1,Assisted suicide should be a criminal offence,-1,best_golden,1,5
+1,Assisted suicide should be a criminal offence,-1,best_golden,2,4
+1,Assisted suicide should be a criminal offence,-1,best_golden,3,1
+1,Assisted suicide should be a criminal offence,-1,best_golden,4,6
+1,Assisted suicide should be a criminal offence,-1,best_golden,5,2
+1,Assisted suicide should be a criminal offence,-1,best_golden,6,3
+1,Assisted suicide should be a criminal offence,-1,all_baseline,7,5
+1,Assisted suicide should be a criminal offence,-1,all_baseline,8,1
+1,Assisted suicide should be a criminal offence,-1,all_baseline,9,6
+1,Assisted suicide should be a criminal offence,-1,all_baseline,10,2
+1,Assisted suicide should be a criminal offence,-1,all_baseline,11,4
+1,Assisted suicide should be a criminal offence,-1,all_baseline,12,3
+1,Assisted suicide should be a criminal offence,-1,all_golden,13,6
+1,Assisted suicide should be a criminal offence,-1,all_golden,14,1
+1,Assisted suicide should be a criminal offence,-1,all_golden,15,2
+1,Assisted suicide should be a criminal offence,-1,all_golden,16,5
+1,Assisted suicide should be a criminal offence,-1,all_golden,17,3
+1,Assisted suicide should be a criminal offence,-1,all_golden,18,4
+1,Assisted suicide should be a criminal offence,-1,best_baseline,19,6
+1,Assisted suicide should be a criminal offence,-1,best_baseline,20,1
+1,Assisted suicide should be a criminal offence,-1,best_baseline,21,2
+1,Assisted suicide should be a criminal offence,-1,best_baseline,22,3
+1,Assisted suicide should be a criminal offence,-1,best_baseline,23,5
+1,Assisted suicide should be a criminal offence,-1,best_baseline,24,4
+1,Assisted suicide should be a criminal offence,-1,top2_baseline,25,6
+1,Assisted suicide should be a criminal offence,-1,top2_baseline,26,1
+1,Assisted suicide should be a criminal offence,-1,top2_baseline,27,3
+1,Assisted suicide should be a criminal offence,-1,top2_baseline,28,5
+1,Assisted suicide should be a criminal offence,-1,top2_baseline,29,2
+1,Assisted suicide should be a criminal offence,-1,top2_baseline,30,4
+1,Assisted suicide should be a criminal offence,-1,top2_golden,31,6
+1,Assisted suicide should be a criminal offence,-1,top2_golden,32,4
+1,Assisted suicide should be a criminal offence,-1,top2_golden,33,2
+1,Assisted suicide should be a criminal offence,-1,top2_golden,34,5
+1,Assisted suicide should be a criminal offence,-1,top2_golden,35,1
+1,Assisted suicide should be a criminal offence,-1,top2_golden,36,3
+2,Assisted suicide should be a criminal offence,1,best_golden,1,6
+2,Assisted suicide should be a criminal offence,1,best_golden,2,2
+2,Assisted suicide should be a criminal offence,1,best_golden,3,5
+2,Assisted suicide should be a criminal offence,1,best_golden,4,4
+2,Assisted suicide should be a criminal offence,1,best_golden,5,3
+2,Assisted suicide should be a criminal offence,1,best_golden,6,1
+2,Assisted suicide should be a criminal offence,1,all_baseline,7,5
+2,Assisted suicide should be a criminal offence,1,all_baseline,8,3
+2,Assisted suicide should be a criminal offence,1,all_baseline,9,6
+2,Assisted suicide should be a criminal offence,1,all_baseline,10,1
+2,Assisted suicide should be a criminal offence,1,all_baseline,11,2
+2,Assisted suicide should be a criminal offence,1,all_baseline,12,4
+2,Assisted suicide should be a criminal offence,1,all_golden,13,6
+2,Assisted suicide should be a criminal offence,1,all_golden,14,1
+2,Assisted suicide should be a criminal offence,1,all_golden,15,2
+2,Assisted suicide should be a criminal offence,1,all_golden,16,5
+2,Assisted suicide should be a criminal offence,1,all_golden,17,4
+2,Assisted suicide should be a criminal offence,1,all_golden,18,3
+2,Assisted suicide should be a criminal offence,1,best_baseline,19,6
+2,Assisted suicide should be a criminal offence,1,best_baseline,20,4
+2,Assisted suicide should be a criminal offence,1,best_baseline,21,1
+2,Assisted suicide should be a criminal offence,1,best_baseline,22,5
+2,Assisted suicide should be a criminal offence,1,best_baseline,23,2
+2,Assisted suicide should be a criminal offence,1,best_baseline,24,3
+2,Assisted suicide should be a criminal offence,1,top2_baseline,25,6
+2,Assisted suicide should be a criminal offence,1,top2_baseline,26,2
+2,Assisted suicide should be a criminal offence,1,top2_baseline,27,4
+2,Assisted suicide should be a criminal offence,1,top2_baseline,28,5
+2,Assisted suicide should be a criminal offence,1,top2_baseline,29,1
+2,Assisted suicide should be a criminal offence,1,top2_baseline,30,3
+2,Assisted suicide should be a criminal offence,1,top2_golden,31,6
+2,Assisted suicide should be a criminal offence,1,top2_golden,32,5
+2,Assisted suicide should be a criminal offence,1,top2_golden,33,3
+2,Assisted suicide should be a criminal offence,1,top2_golden,34,4
+2,Assisted suicide should be a criminal offence,1,top2_golden,35,1
+2,Assisted suicide should be a criminal offence,1,top2_golden,36,2
+3,Homeschooling should be banned,-1,best_golden,1,6
+3,Homeschooling should be banned,-1,best_golden,2,3
+3,Homeschooling should be banned,-1,best_golden,3,2
+3,Homeschooling should be banned,-1,best_golden,4,5
+3,Homeschooling should be banned,-1,best_golden,5,4
+3,Homeschooling should be banned,-1,best_golden,6,1
+3,Homeschooling should be banned,-1,all_baseline,7,6
+3,Homeschooling should be banned,-1,all_baseline,8,3
+3,Homeschooling should be banned,-1,all_baseline,9,5
+3,Homeschooling should be banned,-1,all_baseline,10,1
+3,Homeschooling should be banned,-1,all_baseline,11,2
+3,Homeschooling should be banned,-1,all_baseline,12,4
+3,Homeschooling should be banned,-1,all_golden,13,5
+3,Homeschooling should be banned,-1,all_golden,14,1
+3,Homeschooling should be banned,-1,all_golden,15,2
+3,Homeschooling should be banned,-1,all_golden,16,4
+3,Homeschooling should be banned,-1,all_golden,17,3
+3,Homeschooling should be banned,-1,all_golden,18,6
+3,Homeschooling should be banned,-1,best_baseline,19,6
+3,Homeschooling should be banned,-1,best_baseline,20,2
+3,Homeschooling should be banned,-1,best_baseline,21,1
+3,Homeschooling should be banned,-1,best_baseline,22,4
+3,Homeschooling should be banned,-1,best_baseline,23,5
+3,Homeschooling should be banned,-1,best_baseline,24,3
+3,Homeschooling should be banned,-1,top2_baseline,25,6
+3,Homeschooling should be banned,-1,top2_baseline,26,3
+3,Homeschooling should be banned,-1,top2_baseline,27,2
+3,Homeschooling should be banned,-1,top2_baseline,28,5
+3,Homeschooling should be banned,-1,top2_baseline,29,1
+3,Homeschooling should be banned,-1,top2_baseline,30,4
+3,Homeschooling should be banned,-1,top2_golden,31,6
+3,Homeschooling should be banned,-1,top2_golden,32,3
+3,Homeschooling should be banned,-1,top2_golden,33,2
+3,Homeschooling should be banned,-1,top2_golden,34,5
+3,Homeschooling should be banned,-1,top2_golden,35,1
+3,Homeschooling should be banned,-1,top2_golden,36,4
+4,Homeschooling should be banned,1,best_golden,1,6
+4,Homeschooling should be banned,1,best_golden,2,1
+4,Homeschooling should be banned,1,best_golden,3,5
+4,Homeschooling should be banned,1,best_golden,4,4
+4,Homeschooling should be banned,1,best_golden,5,2
+4,Homeschooling should be banned,1,best_golden,6,3
+4,Homeschooling should be banned,1,all_baseline,7,6
+4,Homeschooling should be banned,1,all_baseline,8,2
+4,Homeschooling should be banned,1,all_baseline,9,5
+4,Homeschooling should be banned,1,all_baseline,10,1
+4,Homeschooling should be banned,1,all_baseline,11,4
+4,Homeschooling should be banned,1,all_baseline,12,3
+4,Homeschooling should be banned,1,all_golden,13,5
+4,Homeschooling should be banned,1,all_golden,14,4
+4,Homeschooling should be banned,1,all_golden,15,1
+4,Homeschooling should be banned,1,all_golden,16,6
+4,Homeschooling should be banned,1,all_golden,17,2
+4,Homeschooling should be banned,1,all_golden,18,3
+4,Homeschooling should be banned,1,best_baseline,19,6
+4,Homeschooling should be banned,1,best_baseline,20,2
+4,Homeschooling should be banned,1,best_baseline,21,3
+4,Homeschooling should be banned,1,best_baseline,22,4
+4,Homeschooling should be banned,1,best_baseline,23,5
+4,Homeschooling should be banned,1,best_baseline,24,1
+4,Homeschooling should be banned,1,top2_baseline,25,6
+4,Homeschooling should be banned,1,top2_baseline,26,1
+4,Homeschooling should be banned,1,top2_baseline,27,3
+4,Homeschooling should be banned,1,top2_baseline,28,4
+4,Homeschooling should be banned,1,top2_baseline,29,2
+4,Homeschooling should be banned,1,top2_baseline,30,5
+4,Homeschooling should be banned,1,top2_golden,31,6
+4,Homeschooling should be banned,1,top2_golden,32,5
+4,Homeschooling should be banned,1,top2_golden,33,2
+4,Homeschooling should be banned,1,top2_golden,34,4
+4,Homeschooling should be banned,1,top2_golden,35,1
+4,Homeschooling should be banned,1,top2_golden,36,3
+5,Routine child vaccinations should be mandatory,-1,best_golden,1,6
+5,Routine child vaccinations should be mandatory,-1,best_golden,2,1
+5,Routine child vaccinations should be mandatory,-1,best_golden,3,3
+5,Routine child vaccinations should be mandatory,-1,best_golden,4,5
+5,Routine child vaccinations should be mandatory,-1,best_golden,5,2
+5,Routine child vaccinations should be mandatory,-1,best_golden,6,4
+5,Routine child vaccinations should be mandatory,-1,all_baseline,7,6
+5,Routine child vaccinations should be mandatory,-1,all_baseline,8,1
+5,Routine child vaccinations should be mandatory,-1,all_baseline,9,3
+5,Routine child vaccinations should be mandatory,-1,all_baseline,10,2
+5,Routine child vaccinations should be mandatory,-1,all_baseline,11,5
+5,Routine child vaccinations should be mandatory,-1,all_baseline,12,4
+5,Routine child vaccinations should be mandatory,-1,all_golden,13,6
+5,Routine child vaccinations should be mandatory,-1,all_golden,14,3
+5,Routine child vaccinations should be mandatory,-1,all_golden,15,1
+5,Routine child vaccinations should be mandatory,-1,all_golden,16,5
+5,Routine child vaccinations should be mandatory,-1,all_golden,17,2
+5,Routine child vaccinations should be mandatory,-1,all_golden,18,4
+5,Routine child vaccinations should be mandatory,-1,best_baseline,19,6
+5,Routine child vaccinations should be mandatory,-1,best_baseline,20,1
+5,Routine child vaccinations should be mandatory,-1,best_baseline,21,2
+5,Routine child vaccinations should be mandatory,-1,best_baseline,22,5
+5,Routine child vaccinations should be mandatory,-1,best_baseline,23,4
+5,Routine child vaccinations should be mandatory,-1,best_baseline,24,3
+5,Routine child vaccinations should be mandatory,-1,top2_baseline,25,5
+5,Routine child vaccinations should be mandatory,-1,top2_baseline,26,3
+5,Routine child vaccinations should be mandatory,-1,top2_baseline,27,1
+5,Routine child vaccinations should be mandatory,-1,top2_baseline,28,6
+5,Routine child vaccinations should be mandatory,-1,top2_baseline,29,2
+5,Routine child vaccinations should be mandatory,-1,top2_baseline,30,4
+5,Routine child vaccinations should be mandatory,-1,top2_golden,31,6
+5,Routine child vaccinations should be mandatory,-1,top2_golden,32,5
+5,Routine child vaccinations should be mandatory,-1,top2_golden,33,1
+5,Routine child vaccinations should be mandatory,-1,top2_golden,34,4
+5,Routine child vaccinations should be mandatory,-1,top2_golden,35,2
+5,Routine child vaccinations should be mandatory,-1,top2_golden,36,3
+6,Routine child vaccinations should be mandatory,1,best_golden,1,6
+6,Routine child vaccinations should be mandatory,1,best_golden,2,1
+6,Routine child vaccinations should be mandatory,1,best_golden,3,4
+6,Routine child vaccinations should be mandatory,1,best_golden,4,5
+6,Routine child vaccinations should be mandatory,1,best_golden,5,2
+6,Routine child vaccinations should be mandatory,1,best_golden,6,3
+6,Routine child vaccinations should be mandatory,1,all_baseline,7,6
+6,Routine child vaccinations should be mandatory,1,all_baseline,8,5
+6,Routine child vaccinations should be mandatory,1,all_baseline,9,2
+6,Routine child vaccinations should be mandatory,1,all_baseline,10,3
+6,Routine child vaccinations should be mandatory,1,all_baseline,11,1
+6,Routine child vaccinations should be mandatory,1,all_baseline,12,4
+6,Routine child vaccinations should be mandatory,1,all_golden,13,6
+6,Routine child vaccinations should be mandatory,1,all_golden,14,3
+6,Routine child vaccinations should be mandatory,1,all_golden,15,2
+6,Routine child vaccinations should be mandatory,1,all_golden,16,5
+6,Routine child vaccinations should be mandatory,1,all_golden,17,1
+6,Routine child vaccinations should be mandatory,1,all_golden,18,4
+6,Routine child vaccinations should be mandatory,1,best_baseline,19,6
+6,Routine child vaccinations should be mandatory,1,best_baseline,20,1
+6,Routine child vaccinations should be mandatory,1,best_baseline,21,2
+6,Routine child vaccinations should be mandatory,1,best_baseline,22,3
+6,Routine child vaccinations should be mandatory,1,best_baseline,23,5
+6,Routine child vaccinations should be mandatory,1,best_baseline,24,4
+6,Routine child vaccinations should be mandatory,1,top2_baseline,25,6
+6,Routine child vaccinations should be mandatory,1,top2_baseline,26,1
+6,Routine child vaccinations should be mandatory,1,top2_baseline,27,2
+6,Routine child vaccinations should be mandatory,1,top2_baseline,28,5
+6,Routine child vaccinations should be mandatory,1,top2_baseline,29,3
+6,Routine child vaccinations should be mandatory,1,top2_baseline,30,4
+6,Routine child vaccinations should be mandatory,1,top2_golden,31,6
+6,Routine child vaccinations should be mandatory,1,top2_golden,32,4
+6,Routine child vaccinations should be mandatory,1,top2_golden,33,1
+6,Routine child vaccinations should be mandatory,1,top2_golden,34,5
+6,Routine child vaccinations should be mandatory,1,top2_golden,35,3
+6,Routine child vaccinations should be mandatory,1,top2_golden,36,2
+7,Social media platforms should be regulated by the government,-1,best_golden,1,6
+7,Social media platforms should be regulated by the government,-1,best_golden,2,2
+7,Social media platforms should be regulated by the government,-1,best_golden,3,3
+7,Social media platforms should be regulated by the government,-1,best_golden,4,5
+7,Social media platforms should be regulated by the government,-1,best_golden,5,4
+7,Social media platforms should be regulated by the government,-1,best_golden,6,1
+7,Social media platforms should be regulated by the government,-1,all_baseline,7,6
+7,Social media platforms should be regulated by the government,-1,all_baseline,8,2
+7,Social media platforms should be regulated by the government,-1,all_baseline,9,4
+7,Social media platforms should be regulated by the government,-1,all_baseline,10,1
+7,Social media platforms should be regulated by the government,-1,all_baseline,11,3
+7,Social media platforms should be regulated by the government,-1,all_baseline,12,5
+7,Social media platforms should be regulated by the government,-1,all_golden,13,6
+7,Social media platforms should be regulated by the government,-1,all_golden,14,1
+7,Social media platforms should be regulated by the government,-1,all_golden,15,2
+7,Social media platforms should be regulated by the government,-1,all_golden,16,5
+7,Social media platforms should be regulated by the government,-1,all_golden,17,3
+7,Social media platforms should be regulated by the government,-1,all_golden,18,4
+7,Social media platforms should be regulated by the government,-1,best_baseline,19,6
+7,Social media platforms should be regulated by the government,-1,best_baseline,20,1
+7,Social media platforms should be regulated by the government,-1,best_baseline,21,2
+7,Social media platforms should be regulated by the government,-1,best_baseline,22,5
+7,Social media platforms should be regulated by the government,-1,best_baseline,23,3
+7,Social media platforms should be regulated by the government,-1,best_baseline,24,4
+7,Social media platforms should be regulated by the government,-1,top2_baseline,25,6
+7,Social media platforms should be regulated by the government,-1,top2_baseline,26,4
+7,Social media platforms should be regulated by the government,-1,top2_baseline,27,3
+7,Social media platforms should be regulated by the government,-1,top2_baseline,28,5
+7,Social media platforms should be regulated by the government,-1,top2_baseline,29,2
+7,Social media platforms should be regulated by the government,-1,top2_baseline,30,1
+7,Social media platforms should be regulated by the government,-1,top2_golden,31,6
+7,Social media platforms should be regulated by the government,-1,top2_golden,32,2
+7,Social media platforms should be regulated by the government,-1,top2_golden,33,4
+7,Social media platforms should be regulated by the government,-1,top2_golden,34,5
+7,Social media platforms should be regulated by the government,-1,top2_golden,35,1
+7,Social media platforms should be regulated by the government,-1,top2_golden,36,3
+8,Social media platforms should be regulated by the government,1,best_golden,1,6
+8,Social media platforms should be regulated by the government,1,best_golden,2,1
+8,Social media platforms should be regulated by the government,1,best_golden,3,2
+8,Social media platforms should be regulated by the government,1,best_golden,4,5
+8,Social media platforms should be regulated by the government,1,best_golden,5,4
+8,Social media platforms should be regulated by the government,1,best_golden,6,3
+8,Social media platforms should be regulated by the government,1,all_baseline,7,6
+8,Social media platforms should be regulated by the government,1,all_baseline,8,1
+8,Social media platforms should be regulated by the government,1,all_baseline,9,5
+8,Social media platforms should be regulated by the government,1,all_baseline,10,4
+8,Social media platforms should be regulated by the government,1,all_baseline,11,2
+8,Social media platforms should be regulated by the government,1,all_baseline,12,3
+8,Social media platforms should be regulated by the government,1,all_golden,13,6
+8,Social media platforms should be regulated by the government,1,all_golden,14,3
+8,Social media platforms should be regulated by the government,1,all_golden,15,2
+8,Social media platforms should be regulated by the government,1,all_golden,16,4
+8,Social media platforms should be regulated by the government,1,all_golden,17,1
+8,Social media platforms should be regulated by the government,1,all_golden,18,5
+8,Social media platforms should be regulated by the government,1,best_baseline,19,6
+8,Social media platforms should be regulated by the government,1,best_baseline,20,2
+8,Social media platforms should be regulated by the government,1,best_baseline,21,1
+8,Social media platforms should be regulated by the government,1,best_baseline,22,4
+8,Social media platforms should be regulated by the government,1,best_baseline,23,3
+8,Social media platforms should be regulated by the government,1,best_baseline,24,5
+8,Social media platforms should be regulated by the government,1,top2_baseline,25,6
+8,Social media platforms should be regulated by the government,1,top2_baseline,26,2
+8,Social media platforms should be regulated by the government,1,top2_baseline,27,4
+8,Social media platforms should be regulated by the government,1,top2_baseline,28,5
+8,Social media platforms should be regulated by the government,1,top2_baseline,29,1
+8,Social media platforms should be regulated by the government,1,top2_baseline,30,3
+8,Social media platforms should be regulated by the government,1,top2_golden,31,6
+8,Social media platforms should be regulated by the government,1,top2_golden,32,3
+8,Social media platforms should be regulated by the government,1,top2_golden,33,2
+8,Social media platforms should be regulated by the government,1,top2_golden,34,4
+8,Social media platforms should be regulated by the government,1,top2_golden,35,1
+8,Social media platforms should be regulated by the government,1,top2_golden,36,5
+9,The USA is a good country to live in,-1,best_golden,1,6
+9,The USA is a good country to live in,-1,best_golden,2,1
+9,The USA is a good country to live in,-1,best_golden,3,2
+9,The USA is a good country to live in,-1,best_golden,4,5
+9,The USA is a good country to live in,-1,best_golden,5,4
+9,The USA is a good country to live in,-1,best_golden,6,3
+9,The USA is a good country to live in,-1,all_baseline,7,6
+9,The USA is a good country to live in,-1,all_baseline,8,1
+9,The USA is a good country to live in,-1,all_baseline,9,3
+9,The USA is a good country to live in,-1,all_baseline,10,4
+9,The USA is a good country to live in,-1,all_baseline,11,2
+9,The USA is a good country to live in,-1,all_baseline,12,5
+9,The USA is a good country to live in,-1,all_golden,13,6
+9,The USA is a good country to live in,-1,all_golden,14,2
+9,The USA is a good country to live in,-1,all_golden,15,4
+9,The USA is a good country to live in,-1,all_golden,16,1
+9,The USA is a good country to live in,-1,all_golden,17,3
+9,The USA is a good country to live in,-1,all_golden,18,5
+9,The USA is a good country to live in,-1,best_baseline,19,6
+9,The USA is a good country to live in,-1,best_baseline,20,3
+9,The USA is a good country to live in,-1,best_baseline,21,1
+9,The USA is a good country to live in,-1,best_baseline,22,5
+9,The USA is a good country to live in,-1,best_baseline,23,4
+9,The USA is a good country to live in,-1,best_baseline,24,2
+9,The USA is a good country to live in,-1,top2_baseline,25,6
+9,The USA is a good country to live in,-1,top2_baseline,26,1
+9,The USA is a good country to live in,-1,top2_baseline,27,2
+9,The USA is a good country to live in,-1,top2_baseline,28,5
+9,The USA is a good country to live in,-1,top2_baseline,29,3
+9,The USA is a good country to live in,-1,top2_baseline,30,4
+9,The USA is a good country to live in,-1,top2_golden,31,6
+9,The USA is a good country to live in,-1,top2_golden,32,1
+9,The USA is a good country to live in,-1,top2_golden,33,2
+9,The USA is a good country to live in,-1,top2_golden,34,5
+9,The USA is a good country to live in,-1,top2_golden,35,3
+9,The USA is a good country to live in,-1,top2_golden,36,4
+10,The USA is a good country to live in,1,best_golden,1,6
+10,The USA is a good country to live in,1,best_golden,2,2
+10,The USA is a good country to live in,1,best_golden,3,3
+10,The USA is a good country to live in,1,best_golden,4,4
+10,The USA is a good country to live in,1,best_golden,5,5
+10,The USA is a good country to live in,1,best_golden,6,1
+10,The USA is a good country to live in,1,all_baseline,7,6
+10,The USA is a good country to live in,1,all_baseline,8,2
+10,The USA is a good country to live in,1,all_baseline,9,5
+10,The USA is a good country to live in,1,all_baseline,10,1
+10,The USA is a good country to live in,1,all_baseline,11,3
+10,The USA is a good country to live in,1,all_baseline,12,4
+10,The USA is a good country to live in,1,all_golden,13,6
+10,The USA is a good country to live in,1,all_golden,14,1
+10,The USA is a good country to live in,1,all_golden,15,2
+10,The USA is a good country to live in,1,all_golden,16,5
+10,The USA is a good country to live in,1,all_golden,17,4
+10,The USA is a good country to live in,1,all_golden,18,3
+10,The USA is a good country to live in,1,best_baseline,19,6
+10,The USA is a good country to live in,1,best_baseline,20,2
+10,The USA is a good country to live in,1,best_baseline,21,1
+10,The USA is a good country to live in,1,best_baseline,22,5
+10,The USA is a good country to live in,1,best_baseline,23,3
+10,The USA is a good country to live in,1,best_baseline,24,4
+10,The USA is a good country to live in,1,top2_baseline,25,6
+10,The USA is a good country to live in,1,top2_baseline,26,2
+10,The USA is a good country to live in,1,top2_baseline,27,3
+10,The USA is a good country to live in,1,top2_baseline,28,5
+10,The USA is a good country to live in,1,top2_baseline,29,1
+10,The USA is a good country to live in,1,top2_baseline,30,4
+10,The USA is a good country to live in,1,top2_golden,31,6
+10,The USA is a good country to live in,1,top2_golden,32,5
+10,The USA is a good country to live in,1,top2_golden,33,2
+10,The USA is a good country to live in,1,top2_golden,34,3
+10,The USA is a good country to live in,1,top2_golden,35,1
+10,The USA is a good country to live in,1,top2_golden,36,4
+11,The vow of celibacy should be abandoned,-1,best_golden,1,6
+11,The vow of celibacy should be abandoned,-1,best_golden,2,3
+11,The vow of celibacy should be abandoned,-1,best_golden,3,2
+11,The vow of celibacy should be abandoned,-1,best_golden,4,4
+11,The vow of celibacy should be abandoned,-1,best_golden,5,5
+11,The vow of celibacy should be abandoned,-1,best_golden,6,1
+11,The vow of celibacy should be abandoned,-1,all_baseline,7,6
+11,The vow of celibacy should be abandoned,-1,all_baseline,8,2
+11,The vow of celibacy should be abandoned,-1,all_baseline,9,5
+11,The vow of celibacy should be abandoned,-1,all_baseline,10,1
+11,The vow of celibacy should be abandoned,-1,all_baseline,11,3
+11,The vow of celibacy should be abandoned,-1,all_baseline,12,4
+11,The vow of celibacy should be abandoned,-1,all_golden,13,6
+11,The vow of celibacy should be abandoned,-1,all_golden,14,1
+11,The vow of celibacy should be abandoned,-1,all_golden,15,2
+11,The vow of celibacy should be abandoned,-1,all_golden,16,4
+11,The vow of celibacy should be abandoned,-1,all_golden,17,3
+11,The vow of celibacy should be abandoned,-1,all_golden,18,5
+11,The vow of celibacy should be abandoned,-1,best_baseline,19,6
+11,The vow of celibacy should be abandoned,-1,best_baseline,20,1
+11,The vow of celibacy should be abandoned,-1,best_baseline,21,2
+11,The vow of celibacy should be abandoned,-1,best_baseline,22,5
+11,The vow of celibacy should be abandoned,-1,best_baseline,23,3
+11,The vow of celibacy should be abandoned,-1,best_baseline,24,4
+11,The vow of celibacy should be abandoned,-1,top2_baseline,25,6
+11,The vow of celibacy should be abandoned,-1,top2_baseline,26,1
+11,The vow of celibacy should be abandoned,-1,top2_baseline,27,2
+11,The vow of celibacy should be abandoned,-1,top2_baseline,28,5
+11,The vow of celibacy should be abandoned,-1,top2_baseline,29,3
+11,The vow of celibacy should be abandoned,-1,top2_baseline,30,4
+11,The vow of celibacy should be abandoned,-1,top2_golden,31,6
+11,The vow of celibacy should be abandoned,-1,top2_golden,32,5
+11,The vow of celibacy should be abandoned,-1,top2_golden,33,1
+11,The vow of celibacy should be abandoned,-1,top2_golden,34,4
+11,The vow of celibacy should be abandoned,-1,top2_golden,35,3
+11,The vow of celibacy should be abandoned,-1,top2_golden,36,2
+12,The vow of celibacy should be abandoned,1,best_golden,1,6
+12,The vow of celibacy should be abandoned,1,best_golden,2,2
+12,The vow of celibacy should be abandoned,1,best_golden,3,3
+12,The vow of celibacy should be abandoned,1,best_golden,4,5
+12,The vow of celibacy should be abandoned,1,best_golden,5,4
+12,The vow of celibacy should be abandoned,1,best_golden,6,1
+12,The vow of celibacy should be abandoned,1,all_baseline,7,6
+12,The vow of celibacy should be abandoned,1,all_baseline,8,3
+12,The vow of celibacy should be abandoned,1,all_baseline,9,4
+12,The vow of celibacy should be abandoned,1,all_baseline,10,1
+12,The vow of celibacy should be abandoned,1,all_baseline,11,2
+12,The vow of celibacy should be abandoned,1,all_baseline,12,5
+12,The vow of celibacy should be abandoned,1,all_golden,13,6
+12,The vow of celibacy should be abandoned,1,all_golden,14,1
+12,The vow of celibacy should be abandoned,1,all_golden,15,5
+12,The vow of celibacy should be abandoned,1,all_golden,16,4
+12,The vow of celibacy should be abandoned,1,all_golden,17,2
+12,The vow of celibacy should be abandoned,1,all_golden,18,3
+12,The vow of celibacy should be abandoned,1,best_baseline,19,6
+12,The vow of celibacy should be abandoned,1,best_baseline,20,1
+12,The vow of celibacy should be abandoned,1,best_baseline,21,2
+12,The vow of celibacy should be abandoned,1,best_baseline,22,3
+12,The vow of celibacy should be abandoned,1,best_baseline,23,4
+12,The vow of celibacy should be abandoned,1,best_baseline,24,5
+12,The vow of celibacy should be abandoned,1,top2_baseline,25,6
+12,The vow of celibacy should be abandoned,1,top2_baseline,26,2
+12,The vow of celibacy should be abandoned,1,top2_baseline,27,3
+12,The vow of celibacy should be abandoned,1,top2_baseline,28,5
+12,The vow of celibacy should be abandoned,1,top2_baseline,29,1
+12,The vow of celibacy should be abandoned,1,top2_baseline,30,4
+12,The vow of celibacy should be abandoned,1,top2_golden,31,6
+12,The vow of celibacy should be abandoned,1,top2_golden,32,2
+12,The vow of celibacy should be abandoned,1,top2_golden,33,3
+12,The vow of celibacy should be abandoned,1,top2_golden,34,5
+12,The vow of celibacy should be abandoned,1,top2_golden,35,1
+12,The vow of celibacy should be abandoned,1,top2_golden,36,4
+13,We should abandon marriage,-1,best_golden,1,6
+13,We should abandon marriage,-1,best_golden,2,2
+13,We should abandon marriage,-1,best_golden,3,1
+13,We should abandon marriage,-1,best_golden,4,5
+13,We should abandon marriage,-1,best_golden,5,4
+13,We should abandon marriage,-1,best_golden,6,3
+13,We should abandon marriage,-1,all_baseline,7,6
+13,We should abandon marriage,-1,all_baseline,8,3
+13,We should abandon marriage,-1,all_baseline,9,4
+13,We should abandon marriage,-1,all_baseline,10,1
+13,We should abandon marriage,-1,all_baseline,11,2
+13,We should abandon marriage,-1,all_baseline,12,5
+13,We should abandon marriage,-1,all_golden,13,6
+13,We should abandon marriage,-1,all_golden,14,3
+13,We should abandon marriage,-1,all_golden,15,4
+13,We should abandon marriage,-1,all_golden,16,5
+13,We should abandon marriage,-1,all_golden,17,2
+13,We should abandon marriage,-1,all_golden,18,1
+13,We should abandon marriage,-1,best_baseline,19,6
+13,We should abandon marriage,-1,best_baseline,20,1
+13,We should abandon marriage,-1,best_baseline,21,2
+13,We should abandon marriage,-1,best_baseline,22,4
+13,We should abandon marriage,-1,best_baseline,23,3
+13,We should abandon marriage,-1,best_baseline,24,5
+13,We should abandon marriage,-1,top2_baseline,25,6
+13,We should abandon marriage,-1,top2_baseline,26,1
+13,We should abandon marriage,-1,top2_baseline,27,2
+13,We should abandon marriage,-1,top2_baseline,28,5
+13,We should abandon marriage,-1,top2_baseline,29,3
+13,We should abandon marriage,-1,top2_baseline,30,4
+13,We should abandon marriage,-1,top2_golden,31,6
+13,We should abandon marriage,-1,top2_golden,32,3
+13,We should abandon marriage,-1,top2_golden,33,2
+13,We should abandon marriage,-1,top2_golden,34,4
+13,We should abandon marriage,-1,top2_golden,35,1
+13,We should abandon marriage,-1,top2_golden,36,5
+14,We should abandon marriage,1,best_golden,1,6
+14,We should abandon marriage,1,best_golden,2,1
+14,We should abandon marriage,1,best_golden,3,5
+14,We should abandon marriage,1,best_golden,4,4
+14,We should abandon marriage,1,best_golden,5,3
+14,We should abandon marriage,1,best_golden,6,2
+14,We should abandon marriage,1,all_baseline,7,6
+14,We should abandon marriage,1,all_baseline,8,1
+14,We should abandon marriage,1,all_baseline,9,4
+14,We should abandon marriage,1,all_baseline,10,3
+14,We should abandon marriage,1,all_baseline,11,2
+14,We should abandon marriage,1,all_baseline,12,5
+14,We should abandon marriage,1,all_golden,13,6
+14,We should abandon marriage,1,all_golden,14,2
+14,We should abandon marriage,1,all_golden,15,3
+14,We should abandon marriage,1,all_golden,16,5
+14,We should abandon marriage,1,all_golden,17,1
+14,We should abandon marriage,1,all_golden,18,4
+14,We should abandon marriage,1,best_baseline,19,6
+14,We should abandon marriage,1,best_baseline,20,2
+14,We should abandon marriage,1,best_baseline,21,3
+14,We should abandon marriage,1,best_baseline,22,4
+14,We should abandon marriage,1,best_baseline,23,5
+14,We should abandon marriage,1,best_baseline,24,1
+14,We should abandon marriage,1,top2_baseline,25,6
+14,We should abandon marriage,1,top2_baseline,26,2
+14,We should abandon marriage,1,top2_baseline,27,1
+14,We should abandon marriage,1,top2_baseline,28,5
+14,We should abandon marriage,1,top2_baseline,29,3
+14,We should abandon marriage,1,top2_baseline,30,4
+14,We should abandon marriage,1,top2_golden,31,6
+14,We should abandon marriage,1,top2_golden,32,4
+14,We should abandon marriage,1,top2_golden,33,3
+14,We should abandon marriage,1,top2_golden,34,5
+14,We should abandon marriage,1,top2_golden,35,2
+14,We should abandon marriage,1,top2_golden,36,1
+15,We should abandon the use of school uniform,-1,best_golden,1,5
+15,We should abandon the use of school uniform,-1,best_golden,2,1
+15,We should abandon the use of school uniform,-1,best_golden,3,4
+15,We should abandon the use of school uniform,-1,best_golden,4,3
+15,We should abandon the use of school uniform,-1,best_golden,5,2
+15,We should abandon the use of school uniform,-1,best_golden,6,6
+15,We should abandon the use of school uniform,-1,all_baseline,7,3
+15,We should abandon the use of school uniform,-1,all_baseline,8,2
+15,We should abandon the use of school uniform,-1,all_baseline,9,5
+15,We should abandon the use of school uniform,-1,all_baseline,10,4
+15,We should abandon the use of school uniform,-1,all_baseline,11,1
+15,We should abandon the use of school uniform,-1,all_baseline,12,6
+15,We should abandon the use of school uniform,-1,all_golden,13,3
+15,We should abandon the use of school uniform,-1,all_golden,14,6
+15,We should abandon the use of school uniform,-1,all_golden,15,2
+15,We should abandon the use of school uniform,-1,all_golden,16,5
+15,We should abandon the use of school uniform,-1,all_golden,17,4
+15,We should abandon the use of school uniform,-1,all_golden,18,1
+15,We should abandon the use of school uniform,-1,best_baseline,19,3
+15,We should abandon the use of school uniform,-1,best_baseline,20,4
+15,We should abandon the use of school uniform,-1,best_baseline,21,1
+15,We should abandon the use of school uniform,-1,best_baseline,22,6
+15,We should abandon the use of school uniform,-1,best_baseline,23,2
+15,We should abandon the use of school uniform,-1,best_baseline,24,5
+15,We should abandon the use of school uniform,-1,top2_baseline,25,5
+15,We should abandon the use of school uniform,-1,top2_baseline,26,2
+15,We should abandon the use of school uniform,-1,top2_baseline,27,6
+15,We should abandon the use of school uniform,-1,top2_baseline,28,4
+15,We should abandon the use of school uniform,-1,top2_baseline,29,1
+15,We should abandon the use of school uniform,-1,top2_baseline,30,3
+15,We should abandon the use of school uniform,-1,top2_golden,31,6
+15,We should abandon the use of school uniform,-1,top2_golden,32,3
+15,We should abandon the use of school uniform,-1,top2_golden,33,4
+15,We should abandon the use of school uniform,-1,top2_golden,34,2
+15,We should abandon the use of school uniform,-1,top2_golden,35,5
+15,We should abandon the use of school uniform,-1,top2_golden,36,1
+16,We should abandon the use of school uniform,1,best_golden,1,6
+16,We should abandon the use of school uniform,1,best_golden,2,2
+16,We should abandon the use of school uniform,1,best_golden,3,3
+16,We should abandon the use of school uniform,1,best_golden,4,5
+16,We should abandon the use of school uniform,1,best_golden,5,4
+16,We should abandon the use of school uniform,1,best_golden,6,1
+16,We should abandon the use of school uniform,1,all_baseline,7,6
+16,We should abandon the use of school uniform,1,all_baseline,8,2
+16,We should abandon the use of school uniform,1,all_baseline,9,5
+16,We should abandon the use of school uniform,1,all_baseline,10,3
+16,We should abandon the use of school uniform,1,all_baseline,11,1
+16,We should abandon the use of school uniform,1,all_baseline,12,4
+16,We should abandon the use of school uniform,1,all_golden,13,6
+16,We should abandon the use of school uniform,1,all_golden,14,3
+16,We should abandon the use of school uniform,1,all_golden,15,4
+16,We should abandon the use of school uniform,1,all_golden,16,5
+16,We should abandon the use of school uniform,1,all_golden,17,1
+16,We should abandon the use of school uniform,1,all_golden,18,2
+16,We should abandon the use of school uniform,1,best_baseline,19,6
+16,We should abandon the use of school uniform,1,best_baseline,20,2
+16,We should abandon the use of school uniform,1,best_baseline,21,5
+16,We should abandon the use of school uniform,1,best_baseline,22,3
+16,We should abandon the use of school uniform,1,best_baseline,23,1
+16,We should abandon the use of school uniform,1,best_baseline,24,4
+16,We should abandon the use of school uniform,1,top2_baseline,25,6
+16,We should abandon the use of school uniform,1,top2_baseline,26,3
+16,We should abandon the use of school uniform,1,top2_baseline,27,4
+16,We should abandon the use of school uniform,1,top2_baseline,28,5
+16,We should abandon the use of school uniform,1,top2_baseline,29,1
+16,We should abandon the use of school uniform,1,top2_baseline,30,2
+16,We should abandon the use of school uniform,1,top2_golden,31,6
+16,We should abandon the use of school uniform,1,top2_golden,32,4
+16,We should abandon the use of school uniform,1,top2_golden,33,2
+16,We should abandon the use of school uniform,1,top2_golden,34,5
+16,We should abandon the use of school uniform,1,top2_golden,35,3
+16,We should abandon the use of school uniform,1,top2_golden,36,1
+17,We should abolish capital punishment,-1,best_golden,1,1
+17,We should abolish capital punishment,-1,best_golden,2,5
+17,We should abolish capital punishment,-1,best_golden,3,2
+17,We should abolish capital punishment,-1,best_golden,4,4
+17,We should abolish capital punishment,-1,best_golden,5,6
+17,We should abolish capital punishment,-1,best_golden,6,3
+17,We should abolish capital punishment,-1,all_baseline,7,5
+17,We should abolish capital punishment,-1,all_baseline,8,4
+17,We should abolish capital punishment,-1,all_baseline,9,3
+17,We should abolish capital punishment,-1,all_baseline,10,1
+17,We should abolish capital punishment,-1,all_baseline,11,2
+17,We should abolish capital punishment,-1,all_baseline,12,6
+17,We should abolish capital punishment,-1,all_golden,13,6
+17,We should abolish capital punishment,-1,all_golden,14,4
+17,We should abolish capital punishment,-1,all_golden,15,3
+17,We should abolish capital punishment,-1,all_golden,16,2
+17,We should abolish capital punishment,-1,all_golden,17,5
+17,We should abolish capital punishment,-1,all_golden,18,1
+17,We should abolish capital punishment,-1,best_baseline,19,5
+17,We should abolish capital punishment,-1,best_baseline,20,2
+17,We should abolish capital punishment,-1,best_baseline,21,3
+17,We should abolish capital punishment,-1,best_baseline,22,6
+17,We should abolish capital punishment,-1,best_baseline,23,1
+17,We should abolish capital punishment,-1,best_baseline,24,4
+17,We should abolish capital punishment,-1,top2_baseline,25,5
+17,We should abolish capital punishment,-1,top2_baseline,26,6
+17,We should abolish capital punishment,-1,top2_baseline,27,1
+17,We should abolish capital punishment,-1,top2_baseline,28,2
+17,We should abolish capital punishment,-1,top2_baseline,29,3
+17,We should abolish capital punishment,-1,top2_baseline,30,4
+17,We should abolish capital punishment,-1,top2_golden,31,5
+17,We should abolish capital punishment,-1,top2_golden,32,6
+17,We should abolish capital punishment,-1,top2_golden,33,2
+17,We should abolish capital punishment,-1,top2_golden,34,1
+17,We should abolish capital punishment,-1,top2_golden,35,4
+17,We should abolish capital punishment,-1,top2_golden,36,3
+18,We should abolish capital punishment,1,best_golden,1,3
+18,We should abolish capital punishment,1,best_golden,2,2
+18,We should abolish capital punishment,1,best_golden,3,1
+18,We should abolish capital punishment,1,best_golden,4,4
+18,We should abolish capital punishment,1,best_golden,5,6
+18,We should abolish capital punishment,1,best_golden,6,5
+18,We should abolish capital punishment,1,all_baseline,7,5
+18,We should abolish capital punishment,1,all_baseline,8,1
+18,We should abolish capital punishment,1,all_baseline,9,4
+18,We should abolish capital punishment,1,all_baseline,10,3
+18,We should abolish capital punishment,1,all_baseline,11,2
+18,We should abolish capital punishment,1,all_baseline,12,6
+18,We should abolish capital punishment,1,all_golden,13,5
+18,We should abolish capital punishment,1,all_golden,14,3
+18,We should abolish capital punishment,1,all_golden,15,2
+18,We should abolish capital punishment,1,all_golden,16,4
+18,We should abolish capital punishment,1,all_golden,17,6
+18,We should abolish capital punishment,1,all_golden,18,1
+18,We should abolish capital punishment,1,best_baseline,19,4
+18,We should abolish capital punishment,1,best_baseline,20,3
+18,We should abolish capital punishment,1,best_baseline,21,1
+18,We should abolish capital punishment,1,best_baseline,22,6
+18,We should abolish capital punishment,1,best_baseline,23,2
+18,We should abolish capital punishment,1,best_baseline,24,5
+18,We should abolish capital punishment,1,top2_baseline,25,5
+18,We should abolish capital punishment,1,top2_baseline,26,2
+18,We should abolish capital punishment,1,top2_baseline,27,1
+18,We should abolish capital punishment,1,top2_baseline,28,4
+18,We should abolish capital punishment,1,top2_baseline,29,6
+18,We should abolish capital punishment,1,top2_baseline,30,3
+18,We should abolish capital punishment,1,top2_golden,31,6
+18,We should abolish capital punishment,1,top2_golden,32,5
+18,We should abolish capital punishment,1,top2_golden,33,3
+18,We should abolish capital punishment,1,top2_golden,34,4
+18,We should abolish capital punishment,1,top2_golden,35,2
+18,We should abolish capital punishment,1,top2_golden,36,1
+19,We should abolish intellectual property rights,-1,best_golden,1,5
+19,We should abolish intellectual property rights,-1,best_golden,2,2
+19,We should abolish intellectual property rights,-1,best_golden,3,4
+19,We should abolish intellectual property rights,-1,best_golden,4,3
+19,We should abolish intellectual property rights,-1,best_golden,5,1
+19,We should abolish intellectual property rights,-1,best_golden,6,6
+19,We should abolish intellectual property rights,-1,all_baseline,7,4
+19,We should abolish intellectual property rights,-1,all_baseline,8,2
+19,We should abolish intellectual property rights,-1,all_baseline,9,3
+19,We should abolish intellectual property rights,-1,all_baseline,10,5
+19,We should abolish intellectual property rights,-1,all_baseline,11,1
+19,We should abolish intellectual property rights,-1,all_baseline,12,6
+19,We should abolish intellectual property rights,-1,all_golden,13,6
+19,We should abolish intellectual property rights,-1,all_golden,14,3
+19,We should abolish intellectual property rights,-1,all_golden,15,4
+19,We should abolish intellectual property rights,-1,all_golden,16,5
+19,We should abolish intellectual property rights,-1,all_golden,17,1
+19,We should abolish intellectual property rights,-1,all_golden,18,2
+19,We should abolish intellectual property rights,-1,best_baseline,19,6
+19,We should abolish intellectual property rights,-1,best_baseline,20,2
+19,We should abolish intellectual property rights,-1,best_baseline,21,3
+19,We should abolish intellectual property rights,-1,best_baseline,22,4
+19,We should abolish intellectual property rights,-1,best_baseline,23,1
+19,We should abolish intellectual property rights,-1,best_baseline,24,5
+19,We should abolish intellectual property rights,-1,top2_baseline,25,3
+19,We should abolish intellectual property rights,-1,top2_baseline,26,2
+19,We should abolish intellectual property rights,-1,top2_baseline,27,6
+19,We should abolish intellectual property rights,-1,top2_baseline,28,4
+19,We should abolish intellectual property rights,-1,top2_baseline,29,5
+19,We should abolish intellectual property rights,-1,top2_baseline,30,1
+19,We should abolish intellectual property rights,-1,top2_golden,31,4
+19,We should abolish intellectual property rights,-1,top2_golden,32,5
+19,We should abolish intellectual property rights,-1,top2_golden,33,2
+19,We should abolish intellectual property rights,-1,top2_golden,34,3
+19,We should abolish intellectual property rights,-1,top2_golden,35,6
+19,We should abolish intellectual property rights,-1,top2_golden,36,1
+20,We should abolish intellectual property rights,1,best_golden,1,3
+20,We should abolish intellectual property rights,1,best_golden,2,1
+20,We should abolish intellectual property rights,1,best_golden,3,2
+20,We should abolish intellectual property rights,1,best_golden,4,5
+20,We should abolish intellectual property rights,1,best_golden,5,6
+20,We should abolish intellectual property rights,1,best_golden,6,4
+20,We should abolish intellectual property rights,1,all_baseline,7,4
+20,We should abolish intellectual property rights,1,all_baseline,8,2
+20,We should abolish intellectual property rights,1,all_baseline,9,3
+20,We should abolish intellectual property rights,1,all_baseline,10,5
+20,We should abolish intellectual property rights,1,all_baseline,11,1
+20,We should abolish intellectual property rights,1,all_baseline,12,6
+20,We should abolish intellectual property rights,1,all_golden,13,5
+20,We should abolish intellectual property rights,1,all_golden,14,4
+20,We should abolish intellectual property rights,1,all_golden,15,3
+20,We should abolish intellectual property rights,1,all_golden,16,6
+20,We should abolish intellectual property rights,1,all_golden,17,2
+20,We should abolish intellectual property rights,1,all_golden,18,1
+20,We should abolish intellectual property rights,1,best_baseline,19,4
+20,We should abolish intellectual property rights,1,best_baseline,20,3
+20,We should abolish intellectual property rights,1,best_baseline,21,2
+20,We should abolish intellectual property rights,1,best_baseline,22,6
+20,We should abolish intellectual property rights,1,best_baseline,23,1
+20,We should abolish intellectual property rights,1,best_baseline,24,5
+20,We should abolish intellectual property rights,1,top2_baseline,25,4
+20,We should abolish intellectual property rights,1,top2_baseline,26,1
+20,We should abolish intellectual property rights,1,top2_baseline,27,5
+20,We should abolish intellectual property rights,1,top2_baseline,28,6
+20,We should abolish intellectual property rights,1,top2_baseline,29,3
+20,We should abolish intellectual property rights,1,top2_baseline,30,2
+20,We should abolish intellectual property rights,1,top2_golden,31,4
+20,We should abolish intellectual property rights,1,top2_golden,32,6
+20,We should abolish intellectual property rights,1,top2_golden,33,2
+20,We should abolish intellectual property rights,1,top2_golden,34,5
+20,We should abolish intellectual property rights,1,top2_golden,35,3
+20,We should abolish intellectual property rights,1,top2_golden,36,1
+21,We should abolish the right to keep and bear arms,-1,best_golden,1,1
+21,We should abolish the right to keep and bear arms,-1,best_golden,2,2
+21,We should abolish the right to keep and bear arms,-1,best_golden,3,3
+21,We should abolish the right to keep and bear arms,-1,best_golden,4,5
+21,We should abolish the right to keep and bear arms,-1,best_golden,5,6
+21,We should abolish the right to keep and bear arms,-1,best_golden,6,4
+21,We should abolish the right to keep and bear arms,-1,all_baseline,7,2
+21,We should abolish the right to keep and bear arms,-1,all_baseline,8,4
+21,We should abolish the right to keep and bear arms,-1,all_baseline,9,5
+21,We should abolish the right to keep and bear arms,-1,all_baseline,10,3
+21,We should abolish the right to keep and bear arms,-1,all_baseline,11,1
+21,We should abolish the right to keep and bear arms,-1,all_baseline,12,6
+21,We should abolish the right to keep and bear arms,-1,all_golden,13,5
+21,We should abolish the right to keep and bear arms,-1,all_golden,14,2
+21,We should abolish the right to keep and bear arms,-1,all_golden,15,4
+21,We should abolish the right to keep and bear arms,-1,all_golden,16,6
+21,We should abolish the right to keep and bear arms,-1,all_golden,17,3
+21,We should abolish the right to keep and bear arms,-1,all_golden,18,1
+21,We should abolish the right to keep and bear arms,-1,best_baseline,19,4
+21,We should abolish the right to keep and bear arms,-1,best_baseline,20,2
+21,We should abolish the right to keep and bear arms,-1,best_baseline,21,3
+21,We should abolish the right to keep and bear arms,-1,best_baseline,22,6
+21,We should abolish the right to keep and bear arms,-1,best_baseline,23,1
+21,We should abolish the right to keep and bear arms,-1,best_baseline,24,5
+21,We should abolish the right to keep and bear arms,-1,top2_baseline,25,3
+21,We should abolish the right to keep and bear arms,-1,top2_baseline,26,5
+21,We should abolish the right to keep and bear arms,-1,top2_baseline,27,6
+21,We should abolish the right to keep and bear arms,-1,top2_baseline,28,4
+21,We should abolish the right to keep and bear arms,-1,top2_baseline,29,2
+21,We should abolish the right to keep and bear arms,-1,top2_baseline,30,1
+21,We should abolish the right to keep and bear arms,-1,top2_golden,31,6
+21,We should abolish the right to keep and bear arms,-1,top2_golden,32,5
+21,We should abolish the right to keep and bear arms,-1,top2_golden,33,3
+21,We should abolish the right to keep and bear arms,-1,top2_golden,34,4
+21,We should abolish the right to keep and bear arms,-1,top2_golden,35,2
+21,We should abolish the right to keep and bear arms,-1,top2_golden,36,1
+22,We should abolish the right to keep and bear arms,1,best_golden,1,3
+22,We should abolish the right to keep and bear arms,1,best_golden,2,2
+22,We should abolish the right to keep and bear arms,1,best_golden,3,1
+22,We should abolish the right to keep and bear arms,1,best_golden,4,4
+22,We should abolish the right to keep and bear arms,1,best_golden,5,6
+22,We should abolish the right to keep and bear arms,1,best_golden,6,5
+22,We should abolish the right to keep and bear arms,1,all_baseline,7,4
+22,We should abolish the right to keep and bear arms,1,all_baseline,8,1
+22,We should abolish the right to keep and bear arms,1,all_baseline,9,6
+22,We should abolish the right to keep and bear arms,1,all_baseline,10,3
+22,We should abolish the right to keep and bear arms,1,all_baseline,11,2
+22,We should abolish the right to keep and bear arms,1,all_baseline,12,5
+22,We should abolish the right to keep and bear arms,1,all_golden,13,4
+22,We should abolish the right to keep and bear arms,1,all_golden,14,5
+22,We should abolish the right to keep and bear arms,1,all_golden,15,3
+22,We should abolish the right to keep and bear arms,1,all_golden,16,6
+22,We should abolish the right to keep and bear arms,1,all_golden,17,2
+22,We should abolish the right to keep and bear arms,1,all_golden,18,1
+22,We should abolish the right to keep and bear arms,1,best_baseline,19,2
+22,We should abolish the right to keep and bear arms,1,best_baseline,20,3
+22,We should abolish the right to keep and bear arms,1,best_baseline,21,5
+22,We should abolish the right to keep and bear arms,1,best_baseline,22,6
+22,We should abolish the right to keep and bear arms,1,best_baseline,23,1
+22,We should abolish the right to keep and bear arms,1,best_baseline,24,4
+22,We should abolish the right to keep and bear arms,1,top2_baseline,25,3
+22,We should abolish the right to keep and bear arms,1,top2_baseline,26,5
+22,We should abolish the right to keep and bear arms,1,top2_baseline,27,4
+22,We should abolish the right to keep and bear arms,1,top2_baseline,28,2
+22,We should abolish the right to keep and bear arms,1,top2_baseline,29,6
+22,We should abolish the right to keep and bear arms,1,top2_baseline,30,1
+22,We should abolish the right to keep and bear arms,1,top2_golden,31,4
+22,We should abolish the right to keep and bear arms,1,top2_golden,32,6
+22,We should abolish the right to keep and bear arms,1,top2_golden,33,2
+22,We should abolish the right to keep and bear arms,1,top2_golden,34,5
+22,We should abolish the right to keep and bear arms,1,top2_golden,35,3
+22,We should abolish the right to keep and bear arms,1,top2_golden,36,1
+23,We should adopt an austerity regime,-1,best_golden,1,3
+23,We should adopt an austerity regime,-1,best_golden,2,1
+23,We should adopt an austerity regime,-1,best_golden,3,2
+23,We should adopt an austerity regime,-1,best_golden,4,4
+23,We should adopt an austerity regime,-1,best_golden,5,6
+23,We should adopt an austerity regime,-1,best_golden,6,5
+23,We should adopt an austerity regime,-1,all_baseline,7,3
+23,We should adopt an austerity regime,-1,all_baseline,8,2
+23,We should adopt an austerity regime,-1,all_baseline,9,4
+23,We should adopt an austerity regime,-1,all_baseline,10,6
+23,We should adopt an austerity regime,-1,all_baseline,11,1
+23,We should adopt an austerity regime,-1,all_baseline,12,5
+23,We should adopt an austerity regime,-1,all_golden,13,3
+23,We should adopt an austerity regime,-1,all_golden,14,5
+23,We should adopt an austerity regime,-1,all_golden,15,4
+23,We should adopt an austerity regime,-1,all_golden,16,6
+23,We should adopt an austerity regime,-1,all_golden,17,2
+23,We should adopt an austerity regime,-1,all_golden,18,1
+23,We should adopt an austerity regime,-1,best_baseline,19,4
+23,We should adopt an austerity regime,-1,best_baseline,20,2
+23,We should adopt an austerity regime,-1,best_baseline,21,3
+23,We should adopt an austerity regime,-1,best_baseline,22,6
+23,We should adopt an austerity regime,-1,best_baseline,23,1
+23,We should adopt an austerity regime,-1,best_baseline,24,5
+23,We should adopt an austerity regime,-1,top2_baseline,25,3
+23,We should adopt an austerity regime,-1,top2_baseline,26,2
+23,We should adopt an austerity regime,-1,top2_baseline,27,5
+23,We should adopt an austerity regime,-1,top2_baseline,28,6
+23,We should adopt an austerity regime,-1,top2_baseline,29,4
+23,We should adopt an austerity regime,-1,top2_baseline,30,1
+23,We should adopt an austerity regime,-1,top2_golden,31,3
+23,We should adopt an austerity regime,-1,top2_golden,32,4
+23,We should adopt an austerity regime,-1,top2_golden,33,2
+23,We should adopt an austerity regime,-1,top2_golden,34,5
+23,We should adopt an austerity regime,-1,top2_golden,35,6
+23,We should adopt an austerity regime,-1,top2_golden,36,1
+24,We should adopt an austerity regime,1,best_golden,1,1
+24,We should adopt an austerity regime,1,best_golden,2,2
+24,We should adopt an austerity regime,1,best_golden,3,3
+24,We should adopt an austerity regime,1,best_golden,4,5
+24,We should adopt an austerity regime,1,best_golden,5,6
+24,We should adopt an austerity regime,1,best_golden,6,4
+24,We should adopt an austerity regime,1,all_baseline,7,4
+24,We should adopt an austerity regime,1,all_baseline,8,2
+24,We should adopt an austerity regime,1,all_baseline,9,5
+24,We should adopt an austerity regime,1,all_baseline,10,3
+24,We should adopt an austerity regime,1,all_baseline,11,1
+24,We should adopt an austerity regime,1,all_baseline,12,6
+24,We should adopt an austerity regime,1,all_golden,13,4
+24,We should adopt an austerity regime,1,all_golden,14,2
+24,We should adopt an austerity regime,1,all_golden,15,5
+24,We should adopt an austerity regime,1,all_golden,16,6
+24,We should adopt an austerity regime,1,all_golden,17,3
+24,We should adopt an austerity regime,1,all_golden,18,1
+24,We should adopt an austerity regime,1,best_baseline,19,4
+24,We should adopt an austerity regime,1,best_baseline,20,2
+24,We should adopt an austerity regime,1,best_baseline,21,3
+24,We should adopt an austerity regime,1,best_baseline,22,6
+24,We should adopt an austerity regime,1,best_baseline,23,1
+24,We should adopt an austerity regime,1,best_baseline,24,5
+24,We should adopt an austerity regime,1,top2_baseline,25,6
+24,We should adopt an austerity regime,1,top2_baseline,26,3
+24,We should adopt an austerity regime,1,top2_baseline,27,5
+24,We should adopt an austerity regime,1,top2_baseline,28,4
+24,We should adopt an austerity regime,1,top2_baseline,29,2
+24,We should adopt an austerity regime,1,top2_baseline,30,1
+24,We should adopt an austerity regime,1,top2_golden,31,5
+24,We should adopt an austerity regime,1,top2_golden,32,6
+24,We should adopt an austerity regime,1,top2_golden,33,2
+24,We should adopt an austerity regime,1,top2_golden,34,3
+24,We should adopt an austerity regime,1,top2_golden,35,4
+24,We should adopt an austerity regime,1,top2_golden,36,1
+25,We should adopt atheism,-1,best_golden,1,6
+25,We should adopt atheism,-1,best_golden,2,2
+25,We should adopt atheism,-1,best_golden,3,1
+25,We should adopt atheism,-1,best_golden,4,4
+25,We should adopt atheism,-1,best_golden,5,5
+25,We should adopt atheism,-1,best_golden,6,3
+25,We should adopt atheism,-1,all_baseline,7,4
+25,We should adopt atheism,-1,all_baseline,8,5
+25,We should adopt atheism,-1,all_baseline,9,3
+25,We should adopt atheism,-1,all_baseline,10,2
+25,We should adopt atheism,-1,all_baseline,11,1
+25,We should adopt atheism,-1,all_baseline,12,6
+25,We should adopt atheism,-1,all_golden,13,4
+25,We should adopt atheism,-1,all_golden,14,2
+25,We should adopt atheism,-1,all_golden,15,6
+25,We should adopt atheism,-1,all_golden,16,5
+25,We should adopt atheism,-1,all_golden,17,3
+25,We should adopt atheism,-1,all_golden,18,1
+25,We should adopt atheism,-1,best_baseline,19,3
+25,We should adopt atheism,-1,best_baseline,20,2
+25,We should adopt atheism,-1,best_baseline,21,4
+25,We should adopt atheism,-1,best_baseline,22,6
+25,We should adopt atheism,-1,best_baseline,23,1
+25,We should adopt atheism,-1,best_baseline,24,5
+25,We should adopt atheism,-1,top2_baseline,25,6
+25,We should adopt atheism,-1,top2_baseline,26,5
+25,We should adopt atheism,-1,top2_baseline,27,4
+25,We should adopt atheism,-1,top2_baseline,28,3
+25,We should adopt atheism,-1,top2_baseline,29,2
+25,We should adopt atheism,-1,top2_baseline,30,1
+25,We should adopt atheism,-1,top2_golden,31,6
+25,We should adopt atheism,-1,top2_golden,32,5
+25,We should adopt atheism,-1,top2_golden,33,3
+25,We should adopt atheism,-1,top2_golden,34,2
+25,We should adopt atheism,-1,top2_golden,35,4
+25,We should adopt atheism,-1,top2_golden,36,1
+26,We should adopt atheism,1,best_golden,1,3
+26,We should adopt atheism,1,best_golden,2,1
+26,We should adopt atheism,1,best_golden,3,2
+26,We should adopt atheism,1,best_golden,4,4
+26,We should adopt atheism,1,best_golden,5,6
+26,We should adopt atheism,1,best_golden,6,5
+26,We should adopt atheism,1,all_baseline,7,3
+26,We should adopt atheism,1,all_baseline,8,2
+26,We should adopt atheism,1,all_baseline,9,5
+26,We should adopt atheism,1,all_baseline,10,4
+26,We should adopt atheism,1,all_baseline,11,1
+26,We should adopt atheism,1,all_baseline,12,6
+26,We should adopt atheism,1,all_golden,13,3
+26,We should adopt atheism,1,all_golden,14,2
+26,We should adopt atheism,1,all_golden,15,5
+26,We should adopt atheism,1,all_golden,16,6
+26,We should adopt atheism,1,all_golden,17,4
+26,We should adopt atheism,1,all_golden,18,1
+26,We should adopt atheism,1,best_baseline,19,2
+26,We should adopt atheism,1,best_baseline,20,3
+26,We should adopt atheism,1,best_baseline,21,4
+26,We should adopt atheism,1,best_baseline,22,6
+26,We should adopt atheism,1,best_baseline,23,1
+26,We should adopt atheism,1,best_baseline,24,5
+26,We should adopt atheism,1,top2_baseline,25,6
+26,We should adopt atheism,1,top2_baseline,26,2
+26,We should adopt atheism,1,top2_baseline,27,5
+26,We should adopt atheism,1,top2_baseline,28,3
+26,We should adopt atheism,1,top2_baseline,29,4
+26,We should adopt atheism,1,top2_baseline,30,1
+26,We should adopt atheism,1,top2_golden,31,6
+26,We should adopt atheism,1,top2_golden,32,2
+26,We should adopt atheism,1,top2_golden,33,3
+26,We should adopt atheism,1,top2_golden,34,5
+26,We should adopt atheism,1,top2_golden,35,4
+26,We should adopt atheism,1,top2_golden,36,1
+27,We should adopt libertarianism,-1,best_golden,1,4
+27,We should adopt libertarianism,-1,best_golden,2,1
+27,We should adopt libertarianism,-1,best_golden,3,2
+27,We should adopt libertarianism,-1,best_golden,4,3
+27,We should adopt libertarianism,-1,best_golden,5,5
+27,We should adopt libertarianism,-1,best_golden,6,6
+27,We should adopt libertarianism,-1,all_baseline,7,5
+27,We should adopt libertarianism,-1,all_baseline,8,1
+27,We should adopt libertarianism,-1,all_baseline,9,4
+27,We should adopt libertarianism,-1,all_baseline,10,6
+27,We should adopt libertarianism,-1,all_baseline,11,2
+27,We should adopt libertarianism,-1,all_baseline,12,3
+27,We should adopt libertarianism,-1,all_golden,13,3
+27,We should adopt libertarianism,-1,all_golden,14,2
+27,We should adopt libertarianism,-1,all_golden,15,6
+27,We should adopt libertarianism,-1,all_golden,16,5
+27,We should adopt libertarianism,-1,all_golden,17,4
+27,We should adopt libertarianism,-1,all_golden,18,1
+27,We should adopt libertarianism,-1,best_baseline,19,2
+27,We should adopt libertarianism,-1,best_baseline,20,6
+27,We should adopt libertarianism,-1,best_baseline,21,5
+27,We should adopt libertarianism,-1,best_baseline,22,4
+27,We should adopt libertarianism,-1,best_baseline,23,1
+27,We should adopt libertarianism,-1,best_baseline,24,3
+27,We should adopt libertarianism,-1,top2_baseline,25,4
+27,We should adopt libertarianism,-1,top2_baseline,26,2
+27,We should adopt libertarianism,-1,top2_baseline,27,5
+27,We should adopt libertarianism,-1,top2_baseline,28,3
+27,We should adopt libertarianism,-1,top2_baseline,29,6
+27,We should adopt libertarianism,-1,top2_baseline,30,1
+27,We should adopt libertarianism,-1,top2_golden,31,4
+27,We should adopt libertarianism,-1,top2_golden,32,5
+27,We should adopt libertarianism,-1,top2_golden,33,2
+27,We should adopt libertarianism,-1,top2_golden,34,3
+27,We should adopt libertarianism,-1,top2_golden,35,6
+27,We should adopt libertarianism,-1,top2_golden,36,1
+28,We should adopt libertarianism,1,best_golden,1,3
+28,We should adopt libertarianism,1,best_golden,2,2
+28,We should adopt libertarianism,1,best_golden,3,1
+28,We should adopt libertarianism,1,best_golden,4,4
+28,We should adopt libertarianism,1,best_golden,5,6
+28,We should adopt libertarianism,1,best_golden,6,5
+28,We should adopt libertarianism,1,all_baseline,7,3
+28,We should adopt libertarianism,1,all_baseline,8,1
+28,We should adopt libertarianism,1,all_baseline,9,5
+28,We should adopt libertarianism,1,all_baseline,10,4
+28,We should adopt libertarianism,1,all_baseline,11,2
+28,We should adopt libertarianism,1,all_baseline,12,6
+28,We should adopt libertarianism,1,all_golden,13,3
+28,We should adopt libertarianism,1,all_golden,14,4
+28,We should adopt libertarianism,1,all_golden,15,6
+28,We should adopt libertarianism,1,all_golden,16,5
+28,We should adopt libertarianism,1,all_golden,17,2
+28,We should adopt libertarianism,1,all_golden,18,1
+28,We should adopt libertarianism,1,best_baseline,19,4
+28,We should adopt libertarianism,1,best_baseline,20,5
+28,We should adopt libertarianism,1,best_baseline,21,3
+28,We should adopt libertarianism,1,best_baseline,22,6
+28,We should adopt libertarianism,1,best_baseline,23,2
+28,We should adopt libertarianism,1,best_baseline,24,1
+28,We should adopt libertarianism,1,top2_baseline,25,5
+28,We should adopt libertarianism,1,top2_baseline,26,1
+28,We should adopt libertarianism,1,top2_baseline,27,4
+28,We should adopt libertarianism,1,top2_baseline,28,3
+28,We should adopt libertarianism,1,top2_baseline,29,6
+28,We should adopt libertarianism,1,top2_baseline,30,2
+28,We should adopt libertarianism,1,top2_golden,31,6
+28,We should adopt libertarianism,1,top2_golden,32,5
+28,We should adopt libertarianism,1,top2_golden,33,3
+28,We should adopt libertarianism,1,top2_golden,34,4
+28,We should adopt libertarianism,1,top2_golden,35,2
+28,We should adopt libertarianism,1,top2_golden,36,1
+29,We should ban human cloning,-1,best_golden,1,4
+29,We should ban human cloning,-1,best_golden,2,2
+29,We should ban human cloning,-1,best_golden,3,1
+29,We should ban human cloning,-1,best_golden,4,5
+29,We should ban human cloning,-1,best_golden,5,6
+29,We should ban human cloning,-1,best_golden,6,3
+29,We should ban human cloning,-1,all_baseline,7,5
+29,We should ban human cloning,-1,all_baseline,8,2
+29,We should ban human cloning,-1,all_baseline,9,6
+29,We should ban human cloning,-1,all_baseline,10,4
+29,We should ban human cloning,-1,all_baseline,11,1
+29,We should ban human cloning,-1,all_baseline,12,3
+29,We should ban human cloning,-1,all_golden,13,5
+29,We should ban human cloning,-1,all_golden,14,2
+29,We should ban human cloning,-1,all_golden,15,6
+29,We should ban human cloning,-1,all_golden,16,4
+29,We should ban human cloning,-1,all_golden,17,3
+29,We should ban human cloning,-1,all_golden,18,1
+29,We should ban human cloning,-1,best_baseline,19,2
+29,We should ban human cloning,-1,best_baseline,20,4
+29,We should ban human cloning,-1,best_baseline,21,6
+29,We should ban human cloning,-1,best_baseline,22,5
+29,We should ban human cloning,-1,best_baseline,23,1
+29,We should ban human cloning,-1,best_baseline,24,3
+29,We should ban human cloning,-1,top2_baseline,25,5
+29,We should ban human cloning,-1,top2_baseline,26,2
+29,We should ban human cloning,-1,top2_baseline,27,6
+29,We should ban human cloning,-1,top2_baseline,28,3
+29,We should ban human cloning,-1,top2_baseline,29,4
+29,We should ban human cloning,-1,top2_baseline,30,1
+29,We should ban human cloning,-1,top2_golden,31,5
+29,We should ban human cloning,-1,top2_golden,32,4
+29,We should ban human cloning,-1,top2_golden,33,3
+29,We should ban human cloning,-1,top2_golden,34,2
+29,We should ban human cloning,-1,top2_golden,35,6
+29,We should ban human cloning,-1,top2_golden,36,1
+30,We should ban human cloning,1,best_golden,1,4
+30,We should ban human cloning,1,best_golden,2,5
+30,We should ban human cloning,1,best_golden,3,1
+30,We should ban human cloning,1,best_golden,4,2
+30,We should ban human cloning,1,best_golden,5,6
+30,We should ban human cloning,1,best_golden,6,3
+30,We should ban human cloning,1,all_baseline,7,3
+30,We should ban human cloning,1,all_baseline,8,1
+30,We should ban human cloning,1,all_baseline,9,6
+30,We should ban human cloning,1,all_baseline,10,5
+30,We should ban human cloning,1,all_baseline,11,2
+30,We should ban human cloning,1,all_baseline,12,4
+30,We should ban human cloning,1,all_golden,13,2
+30,We should ban human cloning,1,all_golden,14,4
+30,We should ban human cloning,1,all_golden,15,6
+30,We should ban human cloning,1,all_golden,16,5
+30,We should ban human cloning,1,all_golden,17,3
+30,We should ban human cloning,1,all_golden,18,1
+30,We should ban human cloning,1,best_baseline,19,2
+30,We should ban human cloning,1,best_baseline,20,3
+30,We should ban human cloning,1,best_baseline,21,4
+30,We should ban human cloning,1,best_baseline,22,5
+30,We should ban human cloning,1,best_baseline,23,1
+30,We should ban human cloning,1,best_baseline,24,6
+30,We should ban human cloning,1,top2_baseline,25,6
+30,We should ban human cloning,1,top2_baseline,26,2
+30,We should ban human cloning,1,top2_baseline,27,5
+30,We should ban human cloning,1,top2_baseline,28,3
+30,We should ban human cloning,1,top2_baseline,29,4
+30,We should ban human cloning,1,top2_baseline,30,1
+30,We should ban human cloning,1,top2_golden,31,6
+30,We should ban human cloning,1,top2_golden,32,5
+30,We should ban human cloning,1,top2_golden,33,2
+30,We should ban human cloning,1,top2_golden,34,4
+30,We should ban human cloning,1,top2_golden,35,3
+30,We should ban human cloning,1,top2_golden,36,1
+31,We should ban private military companies,-1,best_golden,1,5
+31,We should ban private military companies,-1,best_golden,2,2
+31,We should ban private military companies,-1,best_golden,3,1
+31,We should ban private military companies,-1,best_golden,4,3
+31,We should ban private military companies,-1,best_golden,5,6
+31,We should ban private military companies,-1,best_golden,6,4
+31,We should ban private military companies,-1,all_baseline,7,5
+31,We should ban private military companies,-1,all_baseline,8,2
+31,We should ban private military companies,-1,all_baseline,9,6
+31,We should ban private military companies,-1,all_baseline,10,3
+31,We should ban private military companies,-1,all_baseline,11,1
+31,We should ban private military companies,-1,all_baseline,12,4
+31,We should ban private military companies,-1,all_golden,13,5
+31,We should ban private military companies,-1,all_golden,14,3
+31,We should ban private military companies,-1,all_golden,15,6
+31,We should ban private military companies,-1,all_golden,16,4
+31,We should ban private military companies,-1,all_golden,17,2
+31,We should ban private military companies,-1,all_golden,18,1
+31,We should ban private military companies,-1,best_baseline,19,3
+31,We should ban private military companies,-1,best_baseline,20,5
+31,We should ban private military companies,-1,best_baseline,21,2
+31,We should ban private military companies,-1,best_baseline,22,4
+31,We should ban private military companies,-1,best_baseline,23,1
+31,We should ban private military companies,-1,best_baseline,24,6
+31,We should ban private military companies,-1,top2_baseline,25,4
+31,We should ban private military companies,-1,top2_baseline,26,2
+31,We should ban private military companies,-1,top2_baseline,27,6
+31,We should ban private military companies,-1,top2_baseline,28,3
+31,We should ban private military companies,-1,top2_baseline,29,5
+31,We should ban private military companies,-1,top2_baseline,30,1
+31,We should ban private military companies,-1,top2_golden,31,5
+31,We should ban private military companies,-1,top2_golden,32,4
+31,We should ban private military companies,-1,top2_golden,33,6
+31,We should ban private military companies,-1,top2_golden,34,3
+31,We should ban private military companies,-1,top2_golden,35,2
+31,We should ban private military companies,-1,top2_golden,36,1
+32,We should ban private military companies,1,best_golden,1,4
+32,We should ban private military companies,1,best_golden,2,2
+32,We should ban private military companies,1,best_golden,3,1
+32,We should ban private military companies,1,best_golden,4,3
+32,We should ban private military companies,1,best_golden,5,6
+32,We should ban private military companies,1,best_golden,6,5
+32,We should ban private military companies,1,all_baseline,7,3
+32,We should ban private military companies,1,all_baseline,8,1
+32,We should ban private military companies,1,all_baseline,9,6
+32,We should ban private military companies,1,all_baseline,10,4
+32,We should ban private military companies,1,all_baseline,11,2
+32,We should ban private military companies,1,all_baseline,12,5
+32,We should ban private military companies,1,all_golden,13,5
+32,We should ban private military companies,1,all_golden,14,3
+32,We should ban private military companies,1,all_golden,15,6
+32,We should ban private military companies,1,all_golden,16,4
+32,We should ban private military companies,1,all_golden,17,2
+32,We should ban private military companies,1,all_golden,18,1
+32,We should ban private military companies,1,best_baseline,19,4
+32,We should ban private military companies,1,best_baseline,20,3
+32,We should ban private military companies,1,best_baseline,21,2
+32,We should ban private military companies,1,best_baseline,22,6
+32,We should ban private military companies,1,best_baseline,23,1
+32,We should ban private military companies,1,best_baseline,24,5
+32,We should ban private military companies,1,top2_baseline,25,4
+32,We should ban private military companies,1,top2_baseline,26,2
+32,We should ban private military companies,1,top2_baseline,27,5
+32,We should ban private military companies,1,top2_baseline,28,3
+32,We should ban private military companies,1,top2_baseline,29,6
+32,We should ban private military companies,1,top2_baseline,30,1
+32,We should ban private military companies,1,top2_golden,31,5
+32,We should ban private military companies,1,top2_golden,32,6
+32,We should ban private military companies,1,top2_golden,33,2
+32,We should ban private military companies,1,top2_golden,34,4
+32,We should ban private military companies,1,top2_golden,35,3
+32,We should ban private military companies,1,top2_golden,36,1
+33,We should ban the use of child actors,-1,best_golden,1,5
+33,We should ban the use of child actors,-1,best_golden,2,1
+33,We should ban the use of child actors,-1,best_golden,3,2
+33,We should ban the use of child actors,-1,best_golden,4,4
+33,We should ban the use of child actors,-1,best_golden,5,6
+33,We should ban the use of child actors,-1,best_golden,6,3
+33,We should ban the use of child actors,-1,all_baseline,7,6
+33,We should ban the use of child actors,-1,all_baseline,8,2
+33,We should ban the use of child actors,-1,all_baseline,9,5
+33,We should ban the use of child actors,-1,all_baseline,10,3
+33,We should ban the use of child actors,-1,all_baseline,11,1
+33,We should ban the use of child actors,-1,all_baseline,12,4
+33,We should ban the use of child actors,-1,all_golden,13,4
+33,We should ban the use of child actors,-1,all_golden,14,3
+33,We should ban the use of child actors,-1,all_golden,15,5
+33,We should ban the use of child actors,-1,all_golden,16,6
+33,We should ban the use of child actors,-1,all_golden,17,2
+33,We should ban the use of child actors,-1,all_golden,18,1
+33,We should ban the use of child actors,-1,best_baseline,19,3
+33,We should ban the use of child actors,-1,best_baseline,20,2
+33,We should ban the use of child actors,-1,best_baseline,21,5
+33,We should ban the use of child actors,-1,best_baseline,22,4
+33,We should ban the use of child actors,-1,best_baseline,23,1
+33,We should ban the use of child actors,-1,best_baseline,24,6
+33,We should ban the use of child actors,-1,top2_baseline,25,5
+33,We should ban the use of child actors,-1,top2_baseline,26,1
+33,We should ban the use of child actors,-1,top2_baseline,27,6
+33,We should ban the use of child actors,-1,top2_baseline,28,3
+33,We should ban the use of child actors,-1,top2_baseline,29,4
+33,We should ban the use of child actors,-1,top2_baseline,30,2
+33,We should ban the use of child actors,-1,top2_golden,31,6
+33,We should ban the use of child actors,-1,top2_golden,32,5
+33,We should ban the use of child actors,-1,top2_golden,33,2
+33,We should ban the use of child actors,-1,top2_golden,34,3
+33,We should ban the use of child actors,-1,top2_golden,35,4
+33,We should ban the use of child actors,-1,top2_golden,36,1
+34,We should ban the use of child actors,1,best_golden,1,3
+34,We should ban the use of child actors,1,best_golden,2,2
+34,We should ban the use of child actors,1,best_golden,3,1
+34,We should ban the use of child actors,1,best_golden,4,5
+34,We should ban the use of child actors,1,best_golden,5,6
+34,We should ban the use of child actors,1,best_golden,6,4
+34,We should ban the use of child actors,1,all_baseline,7,5
+34,We should ban the use of child actors,1,all_baseline,8,1
+34,We should ban the use of child actors,1,all_baseline,9,4
+34,We should ban the use of child actors,1,all_baseline,10,3
+34,We should ban the use of child actors,1,all_baseline,11,2
+34,We should ban the use of child actors,1,all_baseline,12,6
+34,We should ban the use of child actors,1,all_golden,13,4
+34,We should ban the use of child actors,1,all_golden,14,3
+34,We should ban the use of child actors,1,all_golden,15,5
+34,We should ban the use of child actors,1,all_golden,16,6
+34,We should ban the use of child actors,1,all_golden,17,2
+34,We should ban the use of child actors,1,all_golden,18,1
+34,We should ban the use of child actors,1,best_baseline,19,4
+34,We should ban the use of child actors,1,best_baseline,20,3
+34,We should ban the use of child actors,1,best_baseline,21,2
+34,We should ban the use of child actors,1,best_baseline,22,5
+34,We should ban the use of child actors,1,best_baseline,23,1
+34,We should ban the use of child actors,1,best_baseline,24,6
+34,We should ban the use of child actors,1,top2_baseline,25,4
+34,We should ban the use of child actors,1,top2_baseline,26,2
+34,We should ban the use of child actors,1,top2_baseline,27,6
+34,We should ban the use of child actors,1,top2_baseline,28,5
+34,We should ban the use of child actors,1,top2_baseline,29,3
+34,We should ban the use of child actors,1,top2_baseline,30,1
+34,We should ban the use of child actors,1,top2_golden,31,5
+34,We should ban the use of child actors,1,top2_golden,32,6
+34,We should ban the use of child actors,1,top2_golden,33,2
+34,We should ban the use of child actors,1,top2_golden,34,4
+34,We should ban the use of child actors,1,top2_golden,35,3
+34,We should ban the use of child actors,1,top2_golden,36,1
+35,We should close Guantanamo Bay detention camp,-1,best_golden,1,5
+35,We should close Guantanamo Bay detention camp,-1,best_golden,2,2
+35,We should close Guantanamo Bay detention camp,-1,best_golden,3,1
+35,We should close Guantanamo Bay detention camp,-1,best_golden,4,4
+35,We should close Guantanamo Bay detention camp,-1,best_golden,5,6
+35,We should close Guantanamo Bay detention camp,-1,best_golden,6,3
+35,We should close Guantanamo Bay detention camp,-1,all_baseline,7,3
+35,We should close Guantanamo Bay detention camp,-1,all_baseline,8,2
+35,We should close Guantanamo Bay detention camp,-1,all_baseline,9,5
+35,We should close Guantanamo Bay detention camp,-1,all_baseline,10,4
+35,We should close Guantanamo Bay detention camp,-1,all_baseline,11,1
+35,We should close Guantanamo Bay detention camp,-1,all_baseline,12,6
+35,We should close Guantanamo Bay detention camp,-1,all_golden,13,5
+35,We should close Guantanamo Bay detention camp,-1,all_golden,14,2
+35,We should close Guantanamo Bay detention camp,-1,all_golden,15,6
+35,We should close Guantanamo Bay detention camp,-1,all_golden,16,3
+35,We should close Guantanamo Bay detention camp,-1,all_golden,17,4
+35,We should close Guantanamo Bay detention camp,-1,all_golden,18,1
+35,We should close Guantanamo Bay detention camp,-1,best_baseline,19,6
+35,We should close Guantanamo Bay detention camp,-1,best_baseline,20,3
+35,We should close Guantanamo Bay detention camp,-1,best_baseline,21,2
+35,We should close Guantanamo Bay detention camp,-1,best_baseline,22,5
+35,We should close Guantanamo Bay detention camp,-1,best_baseline,23,1
+35,We should close Guantanamo Bay detention camp,-1,best_baseline,24,4
+35,We should close Guantanamo Bay detention camp,-1,top2_baseline,25,2
+35,We should close Guantanamo Bay detention camp,-1,top2_baseline,26,5
+35,We should close Guantanamo Bay detention camp,-1,top2_baseline,27,6
+35,We should close Guantanamo Bay detention camp,-1,top2_baseline,28,4
+35,We should close Guantanamo Bay detention camp,-1,top2_baseline,29,3
+35,We should close Guantanamo Bay detention camp,-1,top2_baseline,30,1
+35,We should close Guantanamo Bay detention camp,-1,top2_golden,31,6
+35,We should close Guantanamo Bay detention camp,-1,top2_golden,32,5
+35,We should close Guantanamo Bay detention camp,-1,top2_golden,33,4
+35,We should close Guantanamo Bay detention camp,-1,top2_golden,34,2
+35,We should close Guantanamo Bay detention camp,-1,top2_golden,35,3
+35,We should close Guantanamo Bay detention camp,-1,top2_golden,36,1
+36,We should close Guantanamo Bay detention camp,1,best_golden,1,5
+36,We should close Guantanamo Bay detention camp,1,best_golden,2,1
+36,We should close Guantanamo Bay detention camp,1,best_golden,3,2
+36,We should close Guantanamo Bay detention camp,1,best_golden,4,3
+36,We should close Guantanamo Bay detention camp,1,best_golden,5,6
+36,We should close Guantanamo Bay detention camp,1,best_golden,6,4
+36,We should close Guantanamo Bay detention camp,1,all_baseline,7,3
+36,We should close Guantanamo Bay detention camp,1,all_baseline,8,1
+36,We should close Guantanamo Bay detention camp,1,all_baseline,9,4
+36,We should close Guantanamo Bay detention camp,1,all_baseline,10,5
+36,We should close Guantanamo Bay detention camp,1,all_baseline,11,2
+36,We should close Guantanamo Bay detention camp,1,all_baseline,12,6
+36,We should close Guantanamo Bay detention camp,1,all_golden,13,3
+36,We should close Guantanamo Bay detention camp,1,all_golden,14,6
+36,We should close Guantanamo Bay detention camp,1,all_golden,15,5
+36,We should close Guantanamo Bay detention camp,1,all_golden,16,4
+36,We should close Guantanamo Bay detention camp,1,all_golden,17,2
+36,We should close Guantanamo Bay detention camp,1,all_golden,18,1
+36,We should close Guantanamo Bay detention camp,1,best_baseline,19,2
+36,We should close Guantanamo Bay detention camp,1,best_baseline,20,5
+36,We should close Guantanamo Bay detention camp,1,best_baseline,21,6
+36,We should close Guantanamo Bay detention camp,1,best_baseline,22,4
+36,We should close Guantanamo Bay detention camp,1,best_baseline,23,1
+36,We should close Guantanamo Bay detention camp,1,best_baseline,24,3
+36,We should close Guantanamo Bay detention camp,1,top2_baseline,25,4
+36,We should close Guantanamo Bay detention camp,1,top2_baseline,26,2
+36,We should close Guantanamo Bay detention camp,1,top2_baseline,27,6
+36,We should close Guantanamo Bay detention camp,1,top2_baseline,28,3
+36,We should close Guantanamo Bay detention camp,1,top2_baseline,29,5
+36,We should close Guantanamo Bay detention camp,1,top2_baseline,30,1
+36,We should close Guantanamo Bay detention camp,1,top2_golden,31,3
+36,We should close Guantanamo Bay detention camp,1,top2_golden,32,4
+36,We should close Guantanamo Bay detention camp,1,top2_golden,33,5
+36,We should close Guantanamo Bay detention camp,1,top2_golden,34,2
+36,We should close Guantanamo Bay detention camp,1,top2_golden,35,6
+36,We should close Guantanamo Bay detention camp,1,top2_golden,36,1
+37,We should end affirmative action,-1,best_golden,1,5
+37,We should end affirmative action,-1,best_golden,2,4
+37,We should end affirmative action,-1,best_golden,3,1
+37,We should end affirmative action,-1,best_golden,4,2
+37,We should end affirmative action,-1,best_golden,5,6
+37,We should end affirmative action,-1,best_golden,6,3
+37,We should end affirmative action,-1,all_baseline,7,4
+37,We should end affirmative action,-1,all_baseline,8,2
+37,We should end affirmative action,-1,all_baseline,9,5
+37,We should end affirmative action,-1,all_baseline,10,3
+37,We should end affirmative action,-1,all_baseline,11,1
+37,We should end affirmative action,-1,all_baseline,12,6
+37,We should end affirmative action,-1,all_golden,13,5
+37,We should end affirmative action,-1,all_golden,14,3
+37,We should end affirmative action,-1,all_golden,15,6
+37,We should end affirmative action,-1,all_golden,16,4
+37,We should end affirmative action,-1,all_golden,17,2
+37,We should end affirmative action,-1,all_golden,18,1
+37,We should end affirmative action,-1,best_baseline,19,5
+37,We should end affirmative action,-1,best_baseline,20,2
+37,We should end affirmative action,-1,best_baseline,21,3
+37,We should end affirmative action,-1,best_baseline,22,6
+37,We should end affirmative action,-1,best_baseline,23,1
+37,We should end affirmative action,-1,best_baseline,24,4
+37,We should end affirmative action,-1,top2_baseline,25,5
+37,We should end affirmative action,-1,top2_baseline,26,2
+37,We should end affirmative action,-1,top2_baseline,27,6
+37,We should end affirmative action,-1,top2_baseline,28,3
+37,We should end affirmative action,-1,top2_baseline,29,4
+37,We should end affirmative action,-1,top2_baseline,30,1
+37,We should end affirmative action,-1,top2_golden,31,5
+37,We should end affirmative action,-1,top2_golden,32,6
+37,We should end affirmative action,-1,top2_golden,33,2
+37,We should end affirmative action,-1,top2_golden,34,4
+37,We should end affirmative action,-1,top2_golden,35,3
+37,We should end affirmative action,-1,top2_golden,36,1
+38,We should end affirmative action,1,best_golden,1,5
+38,We should end affirmative action,1,best_golden,2,2
+38,We should end affirmative action,1,best_golden,3,1
+38,We should end affirmative action,1,best_golden,4,3
+38,We should end affirmative action,1,best_golden,5,6
+38,We should end affirmative action,1,best_golden,6,4
+38,We should end affirmative action,1,all_baseline,7,4
+38,We should end affirmative action,1,all_baseline,8,2
+38,We should end affirmative action,1,all_baseline,9,3
+38,We should end affirmative action,1,all_baseline,10,5
+38,We should end affirmative action,1,all_baseline,11,1
+38,We should end affirmative action,1,all_baseline,12,6
+38,We should end affirmative action,1,all_golden,13,4
+38,We should end affirmative action,1,all_golden,14,5
+38,We should end affirmative action,1,all_golden,15,6
+38,We should end affirmative action,1,all_golden,16,2
+38,We should end affirmative action,1,all_golden,17,3
+38,We should end affirmative action,1,all_golden,18,1
+38,We should end affirmative action,1,best_baseline,19,4
+38,We should end affirmative action,1,best_baseline,20,5
+38,We should end affirmative action,1,best_baseline,21,3
+38,We should end affirmative action,1,best_baseline,22,6
+38,We should end affirmative action,1,best_baseline,23,2
+38,We should end affirmative action,1,best_baseline,24,1
+38,We should end affirmative action,1,top2_baseline,25,1
+38,We should end affirmative action,1,top2_baseline,26,3
+38,We should end affirmative action,1,top2_baseline,27,6
+38,We should end affirmative action,1,top2_baseline,28,4
+38,We should end affirmative action,1,top2_baseline,29,5
+38,We should end affirmative action,1,top2_baseline,30,2
+38,We should end affirmative action,1,top2_golden,31,6
+38,We should end affirmative action,1,top2_golden,32,3
+38,We should end affirmative action,1,top2_golden,33,2
+38,We should end affirmative action,1,top2_golden,34,4
+38,We should end affirmative action,1,top2_golden,35,5
+38,We should end affirmative action,1,top2_golden,36,1
+39,We should end mandatory retirement,-1,best_golden,1,5
+39,We should end mandatory retirement,-1,best_golden,2,2
+39,We should end mandatory retirement,-1,best_golden,3,1
+39,We should end mandatory retirement,-1,best_golden,4,4
+39,We should end mandatory retirement,-1,best_golden,5,6
+39,We should end mandatory retirement,-1,best_golden,6,3
+39,We should end mandatory retirement,-1,all_baseline,7,4
+39,We should end mandatory retirement,-1,all_baseline,8,3
+39,We should end mandatory retirement,-1,all_baseline,9,5
+39,We should end mandatory retirement,-1,all_baseline,10,2
+39,We should end mandatory retirement,-1,all_baseline,11,1
+39,We should end mandatory retirement,-1,all_baseline,12,6
+39,We should end mandatory retirement,-1,all_golden,13,4
+39,We should end mandatory retirement,-1,all_golden,14,3
+39,We should end mandatory retirement,-1,all_golden,15,5
+39,We should end mandatory retirement,-1,all_golden,16,6
+39,We should end mandatory retirement,-1,all_golden,17,1
+39,We should end mandatory retirement,-1,all_golden,18,2
+39,We should end mandatory retirement,-1,best_baseline,19,2
+39,We should end mandatory retirement,-1,best_baseline,20,4
+39,We should end mandatory retirement,-1,best_baseline,21,3
+39,We should end mandatory retirement,-1,best_baseline,22,6
+39,We should end mandatory retirement,-1,best_baseline,23,1
+39,We should end mandatory retirement,-1,best_baseline,24,5
+39,We should end mandatory retirement,-1,top2_baseline,25,6
+39,We should end mandatory retirement,-1,top2_baseline,26,2
+39,We should end mandatory retirement,-1,top2_baseline,27,5
+39,We should end mandatory retirement,-1,top2_baseline,28,3
+39,We should end mandatory retirement,-1,top2_baseline,29,4
+39,We should end mandatory retirement,-1,top2_baseline,30,1
+39,We should end mandatory retirement,-1,top2_golden,31,5
+39,We should end mandatory retirement,-1,top2_golden,32,6
+39,We should end mandatory retirement,-1,top2_golden,33,2
+39,We should end mandatory retirement,-1,top2_golden,34,3
+39,We should end mandatory retirement,-1,top2_golden,35,4
+39,We should end mandatory retirement,-1,top2_golden,36,1
+40,We should end mandatory retirement,1,best_golden,1,4
+40,We should end mandatory retirement,1,best_golden,2,2
+40,We should end mandatory retirement,1,best_golden,3,1
+40,We should end mandatory retirement,1,best_golden,4,3
+40,We should end mandatory retirement,1,best_golden,5,6
+40,We should end mandatory retirement,1,best_golden,6,5
+40,We should end mandatory retirement,1,all_baseline,7,5
+40,We should end mandatory retirement,1,all_baseline,8,1
+40,We should end mandatory retirement,1,all_baseline,9,3
+40,We should end mandatory retirement,1,all_baseline,10,4
+40,We should end mandatory retirement,1,all_baseline,11,2
+40,We should end mandatory retirement,1,all_baseline,12,6
+40,We should end mandatory retirement,1,all_golden,13,4
+40,We should end mandatory retirement,1,all_golden,14,3
+40,We should end mandatory retirement,1,all_golden,15,6
+40,We should end mandatory retirement,1,all_golden,16,5
+40,We should end mandatory retirement,1,all_golden,17,2
+40,We should end mandatory retirement,1,all_golden,18,1
+40,We should end mandatory retirement,1,best_baseline,19,3
+40,We should end mandatory retirement,1,best_baseline,20,4
+40,We should end mandatory retirement,1,best_baseline,21,2
+40,We should end mandatory retirement,1,best_baseline,22,6
+40,We should end mandatory retirement,1,best_baseline,23,1
+40,We should end mandatory retirement,1,best_baseline,24,5
+40,We should end mandatory retirement,1,top2_baseline,25,4
+40,We should end mandatory retirement,1,top2_baseline,26,1
+40,We should end mandatory retirement,1,top2_baseline,27,6
+40,We should end mandatory retirement,1,top2_baseline,28,3
+40,We should end mandatory retirement,1,top2_baseline,29,5
+40,We should end mandatory retirement,1,top2_baseline,30,2
+40,We should end mandatory retirement,1,top2_golden,31,4
+40,We should end mandatory retirement,1,top2_golden,32,5
+40,We should end mandatory retirement,1,top2_golden,33,2
+40,We should end mandatory retirement,1,top2_golden,34,3
+40,We should end mandatory retirement,1,top2_golden,35,6
+40,We should end mandatory retirement,1,top2_golden,36,1
+41,We should fight for the abolition of nuclear weapons,-1,best_golden,1,6
+41,We should fight for the abolition of nuclear weapons,-1,best_golden,2,2
+41,We should fight for the abolition of nuclear weapons,-1,best_golden,3,1
+41,We should fight for the abolition of nuclear weapons,-1,best_golden,4,5
+41,We should fight for the abolition of nuclear weapons,-1,best_golden,5,4
+41,We should fight for the abolition of nuclear weapons,-1,best_golden,6,3
+41,We should fight for the abolition of nuclear weapons,-1,all_baseline,7,4
+41,We should fight for the abolition of nuclear weapons,-1,all_baseline,8,3
+41,We should fight for the abolition of nuclear weapons,-1,all_baseline,9,5
+41,We should fight for the abolition of nuclear weapons,-1,all_baseline,10,2
+41,We should fight for the abolition of nuclear weapons,-1,all_baseline,11,1
+41,We should fight for the abolition of nuclear weapons,-1,all_baseline,12,6
+41,We should fight for the abolition of nuclear weapons,-1,all_golden,13,4
+41,We should fight for the abolition of nuclear weapons,-1,all_golden,14,2
+41,We should fight for the abolition of nuclear weapons,-1,all_golden,15,5
+41,We should fight for the abolition of nuclear weapons,-1,all_golden,16,6
+41,We should fight for the abolition of nuclear weapons,-1,all_golden,17,3
+41,We should fight for the abolition of nuclear weapons,-1,all_golden,18,1
+41,We should fight for the abolition of nuclear weapons,-1,best_baseline,19,3
+41,We should fight for the abolition of nuclear weapons,-1,best_baseline,20,2
+41,We should fight for the abolition of nuclear weapons,-1,best_baseline,21,1
+41,We should fight for the abolition of nuclear weapons,-1,best_baseline,22,6
+41,We should fight for the abolition of nuclear weapons,-1,best_baseline,23,4
+41,We should fight for the abolition of nuclear weapons,-1,best_baseline,24,5
+41,We should fight for the abolition of nuclear weapons,-1,top2_baseline,25,5
+41,We should fight for the abolition of nuclear weapons,-1,top2_baseline,26,3
+41,We should fight for the abolition of nuclear weapons,-1,top2_baseline,27,6
+41,We should fight for the abolition of nuclear weapons,-1,top2_baseline,28,4
+41,We should fight for the abolition of nuclear weapons,-1,top2_baseline,29,2
+41,We should fight for the abolition of nuclear weapons,-1,top2_baseline,30,1
+41,We should fight for the abolition of nuclear weapons,-1,top2_golden,31,6
+41,We should fight for the abolition of nuclear weapons,-1,top2_golden,32,5
+41,We should fight for the abolition of nuclear weapons,-1,top2_golden,33,2
+41,We should fight for the abolition of nuclear weapons,-1,top2_golden,34,4
+41,We should fight for the abolition of nuclear weapons,-1,top2_golden,35,3
+41,We should fight for the abolition of nuclear weapons,-1,top2_golden,36,1
+42,We should fight for the abolition of nuclear weapons,1,best_golden,1,6
+42,We should fight for the abolition of nuclear weapons,1,best_golden,2,2
+42,We should fight for the abolition of nuclear weapons,1,best_golden,3,1
+42,We should fight for the abolition of nuclear weapons,1,best_golden,4,5
+42,We should fight for the abolition of nuclear weapons,1,best_golden,5,3
+42,We should fight for the abolition of nuclear weapons,1,best_golden,6,4
+42,We should fight for the abolition of nuclear weapons,1,all_baseline,7,4
+42,We should fight for the abolition of nuclear weapons,1,all_baseline,8,1
+42,We should fight for the abolition of nuclear weapons,1,all_baseline,9,3
+42,We should fight for the abolition of nuclear weapons,1,all_baseline,10,5
+42,We should fight for the abolition of nuclear weapons,1,all_baseline,11,2
+42,We should fight for the abolition of nuclear weapons,1,all_baseline,12,6
+42,We should fight for the abolition of nuclear weapons,1,all_golden,13,5
+42,We should fight for the abolition of nuclear weapons,1,all_golden,14,2
+42,We should fight for the abolition of nuclear weapons,1,all_golden,15,3
+42,We should fight for the abolition of nuclear weapons,1,all_golden,16,6
+42,We should fight for the abolition of nuclear weapons,1,all_golden,17,4
+42,We should fight for the abolition of nuclear weapons,1,all_golden,18,1
+42,We should fight for the abolition of nuclear weapons,1,best_baseline,19,4
+42,We should fight for the abolition of nuclear weapons,1,best_baseline,20,3
+42,We should fight for the abolition of nuclear weapons,1,best_baseline,21,2
+42,We should fight for the abolition of nuclear weapons,1,best_baseline,22,6
+42,We should fight for the abolition of nuclear weapons,1,best_baseline,23,1
+42,We should fight for the abolition of nuclear weapons,1,best_baseline,24,5
+42,We should fight for the abolition of nuclear weapons,1,top2_baseline,25,5
+42,We should fight for the abolition of nuclear weapons,1,top2_baseline,26,3
+42,We should fight for the abolition of nuclear weapons,1,top2_baseline,27,6
+42,We should fight for the abolition of nuclear weapons,1,top2_baseline,28,4
+42,We should fight for the abolition of nuclear weapons,1,top2_baseline,29,2
+42,We should fight for the abolition of nuclear weapons,1,top2_baseline,30,1
+42,We should fight for the abolition of nuclear weapons,1,top2_golden,31,6
+42,We should fight for the abolition of nuclear weapons,1,top2_golden,32,5
+42,We should fight for the abolition of nuclear weapons,1,top2_golden,33,2
+42,We should fight for the abolition of nuclear weapons,1,top2_golden,34,4
+42,We should fight for the abolition of nuclear weapons,1,top2_golden,35,3
+42,We should fight for the abolition of nuclear weapons,1,top2_golden,36,1
+43,We should fight urbanization,-1,best_golden,1,6
+43,We should fight urbanization,-1,best_golden,2,2
+43,We should fight urbanization,-1,best_golden,3,1
+43,We should fight urbanization,-1,best_golden,4,3
+43,We should fight urbanization,-1,best_golden,5,5
+43,We should fight urbanization,-1,best_golden,6,4
+43,We should fight urbanization,-1,all_baseline,7,2
+43,We should fight urbanization,-1,all_baseline,8,1
+43,We should fight urbanization,-1,all_baseline,9,5
+43,We should fight urbanization,-1,all_baseline,10,4
+43,We should fight urbanization,-1,all_baseline,11,3
+43,We should fight urbanization,-1,all_baseline,12,6
+43,We should fight urbanization,-1,all_golden,13,4
+43,We should fight urbanization,-1,all_golden,14,5
+43,We should fight urbanization,-1,all_golden,15,3
+43,We should fight urbanization,-1,all_golden,16,6
+43,We should fight urbanization,-1,all_golden,17,2
+43,We should fight urbanization,-1,all_golden,18,1
+43,We should fight urbanization,-1,best_baseline,19,3
+43,We should fight urbanization,-1,best_baseline,20,2
+43,We should fight urbanization,-1,best_baseline,21,1
+43,We should fight urbanization,-1,best_baseline,22,6
+43,We should fight urbanization,-1,best_baseline,23,4
+43,We should fight urbanization,-1,best_baseline,24,5
+43,We should fight urbanization,-1,top2_baseline,25,5
+43,We should fight urbanization,-1,top2_baseline,26,2
+43,We should fight urbanization,-1,top2_baseline,27,6
+43,We should fight urbanization,-1,top2_baseline,28,4
+43,We should fight urbanization,-1,top2_baseline,29,3
+43,We should fight urbanization,-1,top2_baseline,30,1
+43,We should fight urbanization,-1,top2_golden,31,6
+43,We should fight urbanization,-1,top2_golden,32,5
+43,We should fight urbanization,-1,top2_golden,33,3
+43,We should fight urbanization,-1,top2_golden,34,4
+43,We should fight urbanization,-1,top2_golden,35,2
+43,We should fight urbanization,-1,top2_golden,36,1
+44,We should fight urbanization,1,best_golden,1,6
+44,We should fight urbanization,1,best_golden,2,1
+44,We should fight urbanization,1,best_golden,3,5
+44,We should fight urbanization,1,best_golden,4,4
+44,We should fight urbanization,1,best_golden,5,3
+44,We should fight urbanization,1,best_golden,6,2
+44,We should fight urbanization,1,all_baseline,7,4
+44,We should fight urbanization,1,all_baseline,8,2
+44,We should fight urbanization,1,all_baseline,9,5
+44,We should fight urbanization,1,all_baseline,10,1
+44,We should fight urbanization,1,all_baseline,11,3
+44,We should fight urbanization,1,all_baseline,12,6
+44,We should fight urbanization,1,all_golden,13,3
+44,We should fight urbanization,1,all_golden,14,2
+44,We should fight urbanization,1,all_golden,15,6
+44,We should fight urbanization,1,all_golden,16,5
+44,We should fight urbanization,1,all_golden,17,4
+44,We should fight urbanization,1,all_golden,18,1
+44,We should fight urbanization,1,best_baseline,19,3
+44,We should fight urbanization,1,best_baseline,20,5
+44,We should fight urbanization,1,best_baseline,21,1
+44,We should fight urbanization,1,best_baseline,22,6
+44,We should fight urbanization,1,best_baseline,23,2
+44,We should fight urbanization,1,best_baseline,24,4
+44,We should fight urbanization,1,top2_baseline,25,1
+44,We should fight urbanization,1,top2_baseline,26,4
+44,We should fight urbanization,1,top2_baseline,27,6
+44,We should fight urbanization,1,top2_baseline,28,5
+44,We should fight urbanization,1,top2_baseline,29,3
+44,We should fight urbanization,1,top2_baseline,30,2
+44,We should fight urbanization,1,top2_golden,31,6
+44,We should fight urbanization,1,top2_golden,32,5
+44,We should fight urbanization,1,top2_golden,33,4
+44,We should fight urbanization,1,top2_golden,34,3
+44,We should fight urbanization,1,top2_golden,35,2
+44,We should fight urbanization,1,top2_golden,36,1
+45,We should introduce compulsory voting,-1,best_golden,1,6
+45,We should introduce compulsory voting,-1,best_golden,2,3
+45,We should introduce compulsory voting,-1,best_golden,3,1
+45,We should introduce compulsory voting,-1,best_golden,4,5
+45,We should introduce compulsory voting,-1,best_golden,5,2
+45,We should introduce compulsory voting,-1,best_golden,6,4
+45,We should introduce compulsory voting,-1,all_baseline,7,4
+45,We should introduce compulsory voting,-1,all_baseline,8,1
+45,We should introduce compulsory voting,-1,all_baseline,9,5
+45,We should introduce compulsory voting,-1,all_baseline,10,3
+45,We should introduce compulsory voting,-1,all_baseline,11,2
+45,We should introduce compulsory voting,-1,all_baseline,12,6
+45,We should introduce compulsory voting,-1,all_golden,13,4
+45,We should introduce compulsory voting,-1,all_golden,14,3
+45,We should introduce compulsory voting,-1,all_golden,15,6
+45,We should introduce compulsory voting,-1,all_golden,16,5
+45,We should introduce compulsory voting,-1,all_golden,17,1
+45,We should introduce compulsory voting,-1,all_golden,18,2
+45,We should introduce compulsory voting,-1,best_baseline,19,3
+45,We should introduce compulsory voting,-1,best_baseline,20,4
+45,We should introduce compulsory voting,-1,best_baseline,21,1
+45,We should introduce compulsory voting,-1,best_baseline,22,6
+45,We should introduce compulsory voting,-1,best_baseline,23,2
+45,We should introduce compulsory voting,-1,best_baseline,24,5
+45,We should introduce compulsory voting,-1,top2_baseline,25,6
+45,We should introduce compulsory voting,-1,top2_baseline,26,3
+45,We should introduce compulsory voting,-1,top2_baseline,27,2
+45,We should introduce compulsory voting,-1,top2_baseline,28,5
+45,We should introduce compulsory voting,-1,top2_baseline,29,4
+45,We should introduce compulsory voting,-1,top2_baseline,30,1
+45,We should introduce compulsory voting,-1,top2_golden,31,6
+45,We should introduce compulsory voting,-1,top2_golden,32,5
+45,We should introduce compulsory voting,-1,top2_golden,33,2
+45,We should introduce compulsory voting,-1,top2_golden,34,4
+45,We should introduce compulsory voting,-1,top2_golden,35,3
+45,We should introduce compulsory voting,-1,top2_golden,36,1
+46,We should introduce compulsory voting,1,best_golden,1,4
+46,We should introduce compulsory voting,1,best_golden,2,2
+46,We should introduce compulsory voting,1,best_golden,3,3
+46,We should introduce compulsory voting,1,best_golden,4,5
+46,We should introduce compulsory voting,1,best_golden,5,1
+46,We should introduce compulsory voting,1,best_golden,6,6
+46,We should introduce compulsory voting,1,all_baseline,7,4
+46,We should introduce compulsory voting,1,all_baseline,8,2
+46,We should introduce compulsory voting,1,all_baseline,9,5
+46,We should introduce compulsory voting,1,all_baseline,10,3
+46,We should introduce compulsory voting,1,all_baseline,11,1
+46,We should introduce compulsory voting,1,all_baseline,12,6
+46,We should introduce compulsory voting,1,all_golden,13,5
+46,We should introduce compulsory voting,1,all_golden,14,3
+46,We should introduce compulsory voting,1,all_golden,15,2
+46,We should introduce compulsory voting,1,all_golden,16,6
+46,We should introduce compulsory voting,1,all_golden,17,1
+46,We should introduce compulsory voting,1,all_golden,18,4
+46,We should introduce compulsory voting,1,best_baseline,19,3
+46,We should introduce compulsory voting,1,best_baseline,20,4
+46,We should introduce compulsory voting,1,best_baseline,21,1
+46,We should introduce compulsory voting,1,best_baseline,22,6
+46,We should introduce compulsory voting,1,best_baseline,23,2
+46,We should introduce compulsory voting,1,best_baseline,24,5
+46,We should introduce compulsory voting,1,top2_baseline,25,6
+46,We should introduce compulsory voting,1,top2_baseline,26,2
+46,We should introduce compulsory voting,1,top2_baseline,27,4
+46,We should introduce compulsory voting,1,top2_baseline,28,5
+46,We should introduce compulsory voting,1,top2_baseline,29,3
+46,We should introduce compulsory voting,1,top2_baseline,30,1
+46,We should introduce compulsory voting,1,top2_golden,31,6
+46,We should introduce compulsory voting,1,top2_golden,32,4
+46,We should introduce compulsory voting,1,top2_golden,33,5
+46,We should introduce compulsory voting,1,top2_golden,34,3
+46,We should introduce compulsory voting,1,top2_golden,35,1
+46,We should introduce compulsory voting,1,top2_golden,36,2
+47,We should legalize cannabis,-1,best_golden,1,3
+47,We should legalize cannabis,-1,best_golden,2,2
+47,We should legalize cannabis,-1,best_golden,3,1
+47,We should legalize cannabis,-1,best_golden,4,5
+47,We should legalize cannabis,-1,best_golden,5,6
+47,We should legalize cannabis,-1,best_golden,6,4
+47,We should legalize cannabis,-1,all_baseline,7,4
+47,We should legalize cannabis,-1,all_baseline,8,2
+47,We should legalize cannabis,-1,all_baseline,9,5
+47,We should legalize cannabis,-1,all_baseline,10,3
+47,We should legalize cannabis,-1,all_baseline,11,1
+47,We should legalize cannabis,-1,all_baseline,12,6
+47,We should legalize cannabis,-1,all_golden,13,5
+47,We should legalize cannabis,-1,all_golden,14,4
+47,We should legalize cannabis,-1,all_golden,15,3
+47,We should legalize cannabis,-1,all_golden,16,6
+47,We should legalize cannabis,-1,all_golden,17,2
+47,We should legalize cannabis,-1,all_golden,18,1
+47,We should legalize cannabis,-1,best_baseline,19,4
+47,We should legalize cannabis,-1,best_baseline,20,3
+47,We should legalize cannabis,-1,best_baseline,21,2
+47,We should legalize cannabis,-1,best_baseline,22,6
+47,We should legalize cannabis,-1,best_baseline,23,1
+47,We should legalize cannabis,-1,best_baseline,24,5
+47,We should legalize cannabis,-1,top2_baseline,25,5
+47,We should legalize cannabis,-1,top2_baseline,26,2
+47,We should legalize cannabis,-1,top2_baseline,27,6
+47,We should legalize cannabis,-1,top2_baseline,28,3
+47,We should legalize cannabis,-1,top2_baseline,29,4
+47,We should legalize cannabis,-1,top2_baseline,30,1
+47,We should legalize cannabis,-1,top2_golden,31,6
+47,We should legalize cannabis,-1,top2_golden,32,5
+47,We should legalize cannabis,-1,top2_golden,33,2
+47,We should legalize cannabis,-1,top2_golden,34,3
+47,We should legalize cannabis,-1,top2_golden,35,4
+47,We should legalize cannabis,-1,top2_golden,36,1
+48,We should legalize cannabis,1,best_golden,1,5
+48,We should legalize cannabis,1,best_golden,2,2
+48,We should legalize cannabis,1,best_golden,3,1
+48,We should legalize cannabis,1,best_golden,4,4
+48,We should legalize cannabis,1,best_golden,5,6
+48,We should legalize cannabis,1,best_golden,6,3
+48,We should legalize cannabis,1,all_baseline,7,3
+48,We should legalize cannabis,1,all_baseline,8,1
+48,We should legalize cannabis,1,all_baseline,9,5
+48,We should legalize cannabis,1,all_baseline,10,4
+48,We should legalize cannabis,1,all_baseline,11,2
+48,We should legalize cannabis,1,all_baseline,12,6
+48,We should legalize cannabis,1,all_golden,13,4
+48,We should legalize cannabis,1,all_golden,14,6
+48,We should legalize cannabis,1,all_golden,15,2
+48,We should legalize cannabis,1,all_golden,16,5
+48,We should legalize cannabis,1,all_golden,17,1
+48,We should legalize cannabis,1,all_golden,18,3
+48,We should legalize cannabis,1,best_baseline,19,3
+48,We should legalize cannabis,1,best_baseline,20,5
+48,We should legalize cannabis,1,best_baseline,21,2
+48,We should legalize cannabis,1,best_baseline,22,6
+48,We should legalize cannabis,1,best_baseline,23,1
+48,We should legalize cannabis,1,best_baseline,24,4
+48,We should legalize cannabis,1,top2_baseline,25,4
+48,We should legalize cannabis,1,top2_baseline,26,3
+48,We should legalize cannabis,1,top2_baseline,27,6
+48,We should legalize cannabis,1,top2_baseline,28,2
+48,We should legalize cannabis,1,top2_baseline,29,5
+48,We should legalize cannabis,1,top2_baseline,30,1
+48,We should legalize cannabis,1,top2_golden,31,6
+48,We should legalize cannabis,1,top2_golden,32,5
+48,We should legalize cannabis,1,top2_golden,33,2
+48,We should legalize cannabis,1,top2_golden,34,3
+48,We should legalize cannabis,1,top2_golden,35,4
+48,We should legalize cannabis,1,top2_golden,36,1
+49,We should legalize prostitution,-1,best_golden,1,5
+49,We should legalize prostitution,-1,best_golden,2,4
+49,We should legalize prostitution,-1,best_golden,3,2
+49,We should legalize prostitution,-1,best_golden,4,3
+49,We should legalize prostitution,-1,best_golden,5,6
+49,We should legalize prostitution,-1,best_golden,6,1
+49,We should legalize prostitution,-1,all_baseline,7,4
+49,We should legalize prostitution,-1,all_baseline,8,3
+49,We should legalize prostitution,-1,all_baseline,9,5
+49,We should legalize prostitution,-1,all_baseline,10,1
+49,We should legalize prostitution,-1,all_baseline,11,2
+49,We should legalize prostitution,-1,all_baseline,12,6
+49,We should legalize prostitution,-1,all_golden,13,4
+49,We should legalize prostitution,-1,all_golden,14,2
+49,We should legalize prostitution,-1,all_golden,15,6
+49,We should legalize prostitution,-1,all_golden,16,5
+49,We should legalize prostitution,-1,all_golden,17,1
+49,We should legalize prostitution,-1,all_golden,18,3
+49,We should legalize prostitution,-1,best_baseline,19,4
+49,We should legalize prostitution,-1,best_baseline,20,3
+49,We should legalize prostitution,-1,best_baseline,21,2
+49,We should legalize prostitution,-1,best_baseline,22,6
+49,We should legalize prostitution,-1,best_baseline,23,1
+49,We should legalize prostitution,-1,best_baseline,24,5
+49,We should legalize prostitution,-1,top2_baseline,25,5
+49,We should legalize prostitution,-1,top2_baseline,26,2
+49,We should legalize prostitution,-1,top2_baseline,27,6
+49,We should legalize prostitution,-1,top2_baseline,28,4
+49,We should legalize prostitution,-1,top2_baseline,29,3
+49,We should legalize prostitution,-1,top2_baseline,30,1
+49,We should legalize prostitution,-1,top2_golden,31,6
+49,We should legalize prostitution,-1,top2_golden,32,5
+49,We should legalize prostitution,-1,top2_golden,33,3
+49,We should legalize prostitution,-1,top2_golden,34,4
+49,We should legalize prostitution,-1,top2_golden,35,2
+49,We should legalize prostitution,-1,top2_golden,36,1
+50,We should legalize prostitution,1,best_golden,1,5
+50,We should legalize prostitution,1,best_golden,2,1
+50,We should legalize prostitution,1,best_golden,3,2
+50,We should legalize prostitution,1,best_golden,4,4
+50,We should legalize prostitution,1,best_golden,5,6
+50,We should legalize prostitution,1,best_golden,6,3
+50,We should legalize prostitution,1,all_baseline,7,4
+50,We should legalize prostitution,1,all_baseline,8,2
+50,We should legalize prostitution,1,all_baseline,9,5
+50,We should legalize prostitution,1,all_baseline,10,3
+50,We should legalize prostitution,1,all_baseline,11,1
+50,We should legalize prostitution,1,all_baseline,12,6
+50,We should legalize prostitution,1,all_golden,13,4
+50,We should legalize prostitution,1,all_golden,14,3
+50,We should legalize prostitution,1,all_golden,15,6
+50,We should legalize prostitution,1,all_golden,16,5
+50,We should legalize prostitution,1,all_golden,17,2
+50,We should legalize prostitution,1,all_golden,18,1
+50,We should legalize prostitution,1,best_baseline,19,4
+50,We should legalize prostitution,1,best_baseline,20,2
+50,We should legalize prostitution,1,best_baseline,21,1
+50,We should legalize prostitution,1,best_baseline,22,6
+50,We should legalize prostitution,1,best_baseline,23,3
+50,We should legalize prostitution,1,best_baseline,24,5
+50,We should legalize prostitution,1,top2_baseline,25,4
+50,We should legalize prostitution,1,top2_baseline,26,1
+50,We should legalize prostitution,1,top2_baseline,27,6
+50,We should legalize prostitution,1,top2_baseline,28,5
+50,We should legalize prostitution,1,top2_baseline,29,3
+50,We should legalize prostitution,1,top2_baseline,30,2
+50,We should legalize prostitution,1,top2_golden,31,6
+50,We should legalize prostitution,1,top2_golden,32,5
+50,We should legalize prostitution,1,top2_golden,33,2
+50,We should legalize prostitution,1,top2_golden,34,4
+50,We should legalize prostitution,1,top2_golden,35,3
+50,We should legalize prostitution,1,top2_golden,36,1
+51,We should legalize sex selection,-1,best_golden,1,5
+51,We should legalize sex selection,-1,best_golden,2,1
+51,We should legalize sex selection,-1,best_golden,3,3
+51,We should legalize sex selection,-1,best_golden,4,4
+51,We should legalize sex selection,-1,best_golden,5,6
+51,We should legalize sex selection,-1,best_golden,6,2
+51,We should legalize sex selection,-1,all_baseline,7,4
+51,We should legalize sex selection,-1,all_baseline,8,2
+51,We should legalize sex selection,-1,all_baseline,9,5
+51,We should legalize sex selection,-1,all_baseline,10,3
+51,We should legalize sex selection,-1,all_baseline,11,1
+51,We should legalize sex selection,-1,all_baseline,12,6
+51,We should legalize sex selection,-1,all_golden,13,4
+51,We should legalize sex selection,-1,all_golden,14,3
+51,We should legalize sex selection,-1,all_golden,15,6
+51,We should legalize sex selection,-1,all_golden,16,5
+51,We should legalize sex selection,-1,all_golden,17,2
+51,We should legalize sex selection,-1,all_golden,18,1
+51,We should legalize sex selection,-1,best_baseline,19,4
+51,We should legalize sex selection,-1,best_baseline,20,3
+51,We should legalize sex selection,-1,best_baseline,21,1
+51,We should legalize sex selection,-1,best_baseline,22,6
+51,We should legalize sex selection,-1,best_baseline,23,2
+51,We should legalize sex selection,-1,best_baseline,24,5
+51,We should legalize sex selection,-1,top2_baseline,25,5
+51,We should legalize sex selection,-1,top2_baseline,26,4
+51,We should legalize sex selection,-1,top2_baseline,27,6
+51,We should legalize sex selection,-1,top2_baseline,28,3
+51,We should legalize sex selection,-1,top2_baseline,29,2
+51,We should legalize sex selection,-1,top2_baseline,30,1
+51,We should legalize sex selection,-1,top2_golden,31,6
+51,We should legalize sex selection,-1,top2_golden,32,5
+51,We should legalize sex selection,-1,top2_golden,33,1
+51,We should legalize sex selection,-1,top2_golden,34,2
+51,We should legalize sex selection,-1,top2_golden,35,4
+51,We should legalize sex selection,-1,top2_golden,36,3
+52,We should legalize sex selection,1,best_golden,1,5
+52,We should legalize sex selection,1,best_golden,2,1
+52,We should legalize sex selection,1,best_golden,3,2
+52,We should legalize sex selection,1,best_golden,4,6
+52,We should legalize sex selection,1,best_golden,5,3
+52,We should legalize sex selection,1,best_golden,6,4
+52,We should legalize sex selection,1,all_baseline,7,4
+52,We should legalize sex selection,1,all_baseline,8,2
+52,We should legalize sex selection,1,all_baseline,9,5
+52,We should legalize sex selection,1,all_baseline,10,3
+52,We should legalize sex selection,1,all_baseline,11,1
+52,We should legalize sex selection,1,all_baseline,12,6
+52,We should legalize sex selection,1,all_golden,13,5
+52,We should legalize sex selection,1,all_golden,14,1
+52,We should legalize sex selection,1,all_golden,15,3
+52,We should legalize sex selection,1,all_golden,16,6
+52,We should legalize sex selection,1,all_golden,17,4
+52,We should legalize sex selection,1,all_golden,18,2
+52,We should legalize sex selection,1,best_baseline,19,4
+52,We should legalize sex selection,1,best_baseline,20,1
+52,We should legalize sex selection,1,best_baseline,21,2
+52,We should legalize sex selection,1,best_baseline,22,6
+52,We should legalize sex selection,1,best_baseline,23,3
+52,We should legalize sex selection,1,best_baseline,24,5
+52,We should legalize sex selection,1,top2_baseline,25,5
+52,We should legalize sex selection,1,top2_baseline,26,2
+52,We should legalize sex selection,1,top2_baseline,27,6
+52,We should legalize sex selection,1,top2_baseline,28,4
+52,We should legalize sex selection,1,top2_baseline,29,3
+52,We should legalize sex selection,1,top2_baseline,30,1
+52,We should legalize sex selection,1,top2_golden,31,6
+52,We should legalize sex selection,1,top2_golden,32,3
+52,We should legalize sex selection,1,top2_golden,33,2
+52,We should legalize sex selection,1,top2_golden,34,5
+52,We should legalize sex selection,1,top2_golden,35,4
+52,We should legalize sex selection,1,top2_golden,36,1
+53,We should prohibit flag burning,1,best_golden,1,6
+53,We should prohibit flag burning,1,best_golden,2,1
+53,We should prohibit flag burning,1,best_golden,3,3
+53,We should prohibit flag burning,1,best_golden,4,2
+53,We should prohibit flag burning,1,best_golden,5,4
+53,We should prohibit flag burning,1,best_golden,6,5
+53,We should prohibit flag burning,1,all_baseline,7,4
+53,We should prohibit flag burning,1,all_baseline,8,1
+53,We should prohibit flag burning,1,all_baseline,9,5
+53,We should prohibit flag burning,1,all_baseline,10,2
+53,We should prohibit flag burning,1,all_baseline,11,3
+53,We should prohibit flag burning,1,all_baseline,12,6
+53,We should prohibit flag burning,1,all_golden,13,3
+53,We should prohibit flag burning,1,all_golden,14,4
+53,We should prohibit flag burning,1,all_golden,15,2
+53,We should prohibit flag burning,1,all_golden,16,6
+53,We should prohibit flag burning,1,all_golden,17,5
+53,We should prohibit flag burning,1,all_golden,18,1
+53,We should prohibit flag burning,1,best_baseline,19,4
+53,We should prohibit flag burning,1,best_baseline,20,2
+53,We should prohibit flag burning,1,best_baseline,21,1
+53,We should prohibit flag burning,1,best_baseline,22,6
+53,We should prohibit flag burning,1,best_baseline,23,3
+53,We should prohibit flag burning,1,best_baseline,24,5
+53,We should prohibit flag burning,1,top2_baseline,25,5
+53,We should prohibit flag burning,1,top2_baseline,26,2
+53,We should prohibit flag burning,1,top2_baseline,27,6
+53,We should prohibit flag burning,1,top2_baseline,28,4
+53,We should prohibit flag burning,1,top2_baseline,29,3
+53,We should prohibit flag burning,1,top2_baseline,30,1
+53,We should prohibit flag burning,1,top2_golden,31,6
+53,We should prohibit flag burning,1,top2_golden,32,5
+53,We should prohibit flag burning,1,top2_golden,33,2
+53,We should prohibit flag burning,1,top2_golden,34,4
+53,We should prohibit flag burning,1,top2_golden,35,3
+53,We should prohibit flag burning,1,top2_golden,36,1
+54,We should prohibit flag burning,-1,best_golden,1,5
+54,We should prohibit flag burning,-1,best_golden,2,2
+54,We should prohibit flag burning,-1,best_golden,3,4
+54,We should prohibit flag burning,-1,best_golden,4,3
+54,We should prohibit flag burning,-1,best_golden,5,1
+54,We should prohibit flag burning,-1,best_golden,6,6
+54,We should prohibit flag burning,-1,all_baseline,7,3
+54,We should prohibit flag burning,-1,all_baseline,8,2
+54,We should prohibit flag burning,-1,all_baseline,9,5
+54,We should prohibit flag burning,-1,all_baseline,10,4
+54,We should prohibit flag burning,-1,all_baseline,11,1
+54,We should prohibit flag burning,-1,all_baseline,12,6
+54,We should prohibit flag burning,-1,all_golden,13,4
+54,We should prohibit flag burning,-1,all_golden,14,6
+54,We should prohibit flag burning,-1,all_golden,15,2
+54,We should prohibit flag burning,-1,all_golden,16,5
+54,We should prohibit flag burning,-1,all_golden,17,3
+54,We should prohibit flag burning,-1,all_golden,18,1
+54,We should prohibit flag burning,-1,best_baseline,19,4
+54,We should prohibit flag burning,-1,best_baseline,20,5
+54,We should prohibit flag burning,-1,best_baseline,21,1
+54,We should prohibit flag burning,-1,best_baseline,22,6
+54,We should prohibit flag burning,-1,best_baseline,23,2
+54,We should prohibit flag burning,-1,best_baseline,24,3
+54,We should prohibit flag burning,-1,top2_baseline,25,5
+54,We should prohibit flag burning,-1,top2_baseline,26,4
+54,We should prohibit flag burning,-1,top2_baseline,27,6
+54,We should prohibit flag burning,-1,top2_baseline,28,3
+54,We should prohibit flag burning,-1,top2_baseline,29,2
+54,We should prohibit flag burning,-1,top2_baseline,30,1
+54,We should prohibit flag burning,-1,top2_golden,31,6
+54,We should prohibit flag burning,-1,top2_golden,32,5
+54,We should prohibit flag burning,-1,top2_golden,33,2
+54,We should prohibit flag burning,-1,top2_golden,34,4
+54,We should prohibit flag burning,-1,top2_golden,35,3
+54,We should prohibit flag burning,-1,top2_golden,36,1
+55,We should prohibit women in combat,-1,best_golden,1,6
+55,We should prohibit women in combat,-1,best_golden,2,1
+55,We should prohibit women in combat,-1,best_golden,3,2
+55,We should prohibit women in combat,-1,best_golden,4,4
+55,We should prohibit women in combat,-1,best_golden,5,3
+55,We should prohibit women in combat,-1,best_golden,6,5
+55,We should prohibit women in combat,-1,all_baseline,7,4
+55,We should prohibit women in combat,-1,all_baseline,8,1
+55,We should prohibit women in combat,-1,all_baseline,9,6
+55,We should prohibit women in combat,-1,all_baseline,10,5
+55,We should prohibit women in combat,-1,all_baseline,11,2
+55,We should prohibit women in combat,-1,all_baseline,12,3
+55,We should prohibit women in combat,-1,all_golden,13,4
+55,We should prohibit women in combat,-1,all_golden,14,6
+55,We should prohibit women in combat,-1,all_golden,15,2
+55,We should prohibit women in combat,-1,all_golden,16,5
+55,We should prohibit women in combat,-1,all_golden,17,1
+55,We should prohibit women in combat,-1,all_golden,18,3
+55,We should prohibit women in combat,-1,best_baseline,19,4
+55,We should prohibit women in combat,-1,best_baseline,20,3
+55,We should prohibit women in combat,-1,best_baseline,21,2
+55,We should prohibit women in combat,-1,best_baseline,22,6
+55,We should prohibit women in combat,-1,best_baseline,23,5
+55,We should prohibit women in combat,-1,best_baseline,24,1
+55,We should prohibit women in combat,-1,top2_baseline,25,6
+55,We should prohibit women in combat,-1,top2_baseline,26,2
+55,We should prohibit women in combat,-1,top2_baseline,27,5
+55,We should prohibit women in combat,-1,top2_baseline,28,3
+55,We should prohibit women in combat,-1,top2_baseline,29,4
+55,We should prohibit women in combat,-1,top2_baseline,30,1
+55,We should prohibit women in combat,-1,top2_golden,31,6
+55,We should prohibit women in combat,-1,top2_golden,32,5
+55,We should prohibit women in combat,-1,top2_golden,33,1
+55,We should prohibit women in combat,-1,top2_golden,34,3
+55,We should prohibit women in combat,-1,top2_golden,35,4
+55,We should prohibit women in combat,-1,top2_golden,36,2
+56,We should prohibit women in combat,1,best_golden,1,5
+56,We should prohibit women in combat,1,best_golden,2,2
+56,We should prohibit women in combat,1,best_golden,3,1
+56,We should prohibit women in combat,1,best_golden,4,3
+56,We should prohibit women in combat,1,best_golden,5,6
+56,We should prohibit women in combat,1,best_golden,6,4
+56,We should prohibit women in combat,1,all_baseline,7,4
+56,We should prohibit women in combat,1,all_baseline,8,2
+56,We should prohibit women in combat,1,all_baseline,9,5
+56,We should prohibit women in combat,1,all_baseline,10,3
+56,We should prohibit women in combat,1,all_baseline,11,1
+56,We should prohibit women in combat,1,all_baseline,12,6
+56,We should prohibit women in combat,1,all_golden,13,4
+56,We should prohibit women in combat,1,all_golden,14,5
+56,We should prohibit women in combat,1,all_golden,15,1
+56,We should prohibit women in combat,1,all_golden,16,6
+56,We should prohibit women in combat,1,all_golden,17,3
+56,We should prohibit women in combat,1,all_golden,18,2
+56,We should prohibit women in combat,1,best_baseline,19,4
+56,We should prohibit women in combat,1,best_baseline,20,1
+56,We should prohibit women in combat,1,best_baseline,21,2
+56,We should prohibit women in combat,1,best_baseline,22,6
+56,We should prohibit women in combat,1,best_baseline,23,3
+56,We should prohibit women in combat,1,best_baseline,24,5
+56,We should prohibit women in combat,1,top2_baseline,25,3
+56,We should prohibit women in combat,1,top2_baseline,26,1
+56,We should prohibit women in combat,1,top2_baseline,27,2
+56,We should prohibit women in combat,1,top2_baseline,28,6
+56,We should prohibit women in combat,1,top2_baseline,29,5
+56,We should prohibit women in combat,1,top2_baseline,30,4
+56,We should prohibit women in combat,1,top2_golden,31,6
+56,We should prohibit women in combat,1,top2_golden,32,5
+56,We should prohibit women in combat,1,top2_golden,33,3
+56,We should prohibit women in combat,1,top2_golden,34,2
+56,We should prohibit women in combat,1,top2_golden,35,4
+56,We should prohibit women in combat,1,top2_golden,36,1
+57,We should subsidize journalism,-1,best_golden,1,5
+57,We should subsidize journalism,-1,best_golden,2,2
+57,We should subsidize journalism,-1,best_golden,3,1
+57,We should subsidize journalism,-1,best_golden,4,4
+57,We should subsidize journalism,-1,best_golden,5,3
+57,We should subsidize journalism,-1,best_golden,6,6
+57,We should subsidize journalism,-1,all_baseline,7,3
+57,We should subsidize journalism,-1,all_baseline,8,2
+57,We should subsidize journalism,-1,all_baseline,9,5
+57,We should subsidize journalism,-1,all_baseline,10,6
+57,We should subsidize journalism,-1,all_baseline,11,1
+57,We should subsidize journalism,-1,all_baseline,12,4
+57,We should subsidize journalism,-1,all_golden,13,3
+57,We should subsidize journalism,-1,all_golden,14,5
+57,We should subsidize journalism,-1,all_golden,15,4
+57,We should subsidize journalism,-1,all_golden,16,6
+57,We should subsidize journalism,-1,all_golden,17,2
+57,We should subsidize journalism,-1,all_golden,18,1
+57,We should subsidize journalism,-1,best_baseline,19,4
+57,We should subsidize journalism,-1,best_baseline,20,6
+57,We should subsidize journalism,-1,best_baseline,21,1
+57,We should subsidize journalism,-1,best_baseline,22,5
+57,We should subsidize journalism,-1,best_baseline,23,3
+57,We should subsidize journalism,-1,best_baseline,24,2
+57,We should subsidize journalism,-1,top2_baseline,25,4
+57,We should subsidize journalism,-1,top2_baseline,26,1
+57,We should subsidize journalism,-1,top2_baseline,27,2
+57,We should subsidize journalism,-1,top2_baseline,28,5
+57,We should subsidize journalism,-1,top2_baseline,29,6
+57,We should subsidize journalism,-1,top2_baseline,30,3
+57,We should subsidize journalism,-1,top2_golden,31,6
+57,We should subsidize journalism,-1,top2_golden,32,4
+57,We should subsidize journalism,-1,top2_golden,33,1
+57,We should subsidize journalism,-1,top2_golden,34,3
+57,We should subsidize journalism,-1,top2_golden,35,5
+57,We should subsidize journalism,-1,top2_golden,36,2
+58,We should subsidize journalism,1,best_golden,1,5
+58,We should subsidize journalism,1,best_golden,2,2
+58,We should subsidize journalism,1,best_golden,3,3
+58,We should subsidize journalism,1,best_golden,4,4
+58,We should subsidize journalism,1,best_golden,5,1
+58,We should subsidize journalism,1,best_golden,6,6
+58,We should subsidize journalism,1,all_baseline,7,4
+58,We should subsidize journalism,1,all_baseline,8,3
+58,We should subsidize journalism,1,all_baseline,9,5
+58,We should subsidize journalism,1,all_baseline,10,1
+58,We should subsidize journalism,1,all_baseline,11,2
+58,We should subsidize journalism,1,all_baseline,12,6
+58,We should subsidize journalism,1,all_golden,13,3
+58,We should subsidize journalism,1,all_golden,14,5
+58,We should subsidize journalism,1,all_golden,15,6
+58,We should subsidize journalism,1,all_golden,16,4
+58,We should subsidize journalism,1,all_golden,17,1
+58,We should subsidize journalism,1,all_golden,18,2
+58,We should subsidize journalism,1,best_baseline,19,3
+58,We should subsidize journalism,1,best_baseline,20,6
+58,We should subsidize journalism,1,best_baseline,21,1
+58,We should subsidize journalism,1,best_baseline,22,5
+58,We should subsidize journalism,1,best_baseline,23,2
+58,We should subsidize journalism,1,best_baseline,24,4
+58,We should subsidize journalism,1,top2_baseline,25,5
+58,We should subsidize journalism,1,top2_baseline,26,2
+58,We should subsidize journalism,1,top2_baseline,27,3
+58,We should subsidize journalism,1,top2_baseline,28,4
+58,We should subsidize journalism,1,top2_baseline,29,6
+58,We should subsidize journalism,1,top2_baseline,30,1
+58,We should subsidize journalism,1,top2_golden,31,5
+58,We should subsidize journalism,1,top2_golden,32,4
+58,We should subsidize journalism,1,top2_golden,33,3
+58,We should subsidize journalism,1,top2_golden,34,2
+58,We should subsidize journalism,1,top2_golden,35,6
+58,We should subsidize journalism,1,top2_golden,36,1
+59,We should subsidize space exploration,-1,best_golden,1,5
+59,We should subsidize space exploration,-1,best_golden,2,2
+59,We should subsidize space exploration,-1,best_golden,3,1
+59,We should subsidize space exploration,-1,best_golden,4,3
+59,We should subsidize space exploration,-1,best_golden,5,6
+59,We should subsidize space exploration,-1,best_golden,6,4
+59,We should subsidize space exploration,-1,all_baseline,7,3
+59,We should subsidize space exploration,-1,all_baseline,8,1
+59,We should subsidize space exploration,-1,all_baseline,9,4
+59,We should subsidize space exploration,-1,all_baseline,10,5
+59,We should subsidize space exploration,-1,all_baseline,11,2
+59,We should subsidize space exploration,-1,all_baseline,12,6
+59,We should subsidize space exploration,-1,all_golden,13,3
+59,We should subsidize space exploration,-1,all_golden,14,4
+59,We should subsidize space exploration,-1,all_golden,15,6
+59,We should subsidize space exploration,-1,all_golden,16,5
+59,We should subsidize space exploration,-1,all_golden,17,2
+59,We should subsidize space exploration,-1,all_golden,18,1
+59,We should subsidize space exploration,-1,best_baseline,19,3
+59,We should subsidize space exploration,-1,best_baseline,20,6
+59,We should subsidize space exploration,-1,best_baseline,21,1
+59,We should subsidize space exploration,-1,best_baseline,22,5
+59,We should subsidize space exploration,-1,best_baseline,23,2
+59,We should subsidize space exploration,-1,best_baseline,24,4
+59,We should subsidize space exploration,-1,top2_baseline,25,6
+59,We should subsidize space exploration,-1,top2_baseline,26,1
+59,We should subsidize space exploration,-1,top2_baseline,27,4
+59,We should subsidize space exploration,-1,top2_baseline,28,3
+59,We should subsidize space exploration,-1,top2_baseline,29,5
+59,We should subsidize space exploration,-1,top2_baseline,30,2
+59,We should subsidize space exploration,-1,top2_golden,31,6
+59,We should subsidize space exploration,-1,top2_golden,32,4
+59,We should subsidize space exploration,-1,top2_golden,33,2
+59,We should subsidize space exploration,-1,top2_golden,34,3
+59,We should subsidize space exploration,-1,top2_golden,35,5
+59,We should subsidize space exploration,-1,top2_golden,36,1
+60,We should subsidize space exploration,1,best_golden,1,5
+60,We should subsidize space exploration,1,best_golden,2,1
+60,We should subsidize space exploration,1,best_golden,3,2
+60,We should subsidize space exploration,1,best_golden,4,4
+60,We should subsidize space exploration,1,best_golden,5,3
+60,We should subsidize space exploration,1,best_golden,6,6
+60,We should subsidize space exploration,1,all_baseline,7,3
+60,We should subsidize space exploration,1,all_baseline,8,1
+60,We should subsidize space exploration,1,all_baseline,9,4
+60,We should subsidize space exploration,1,all_baseline,10,6
+60,We should subsidize space exploration,1,all_baseline,11,2
+60,We should subsidize space exploration,1,all_baseline,12,5
+60,We should subsidize space exploration,1,all_golden,13,3
+60,We should subsidize space exploration,1,all_golden,14,5
+60,We should subsidize space exploration,1,all_golden,15,6
+60,We should subsidize space exploration,1,all_golden,16,4
+60,We should subsidize space exploration,1,all_golden,17,1
+60,We should subsidize space exploration,1,all_golden,18,2
+60,We should subsidize space exploration,1,best_baseline,19,3
+60,We should subsidize space exploration,1,best_baseline,20,4
+60,We should subsidize space exploration,1,best_baseline,21,1
+60,We should subsidize space exploration,1,best_baseline,22,6
+60,We should subsidize space exploration,1,best_baseline,23,2
+60,We should subsidize space exploration,1,best_baseline,24,5
+60,We should subsidize space exploration,1,top2_baseline,25,5
+60,We should subsidize space exploration,1,top2_baseline,26,2
+60,We should subsidize space exploration,1,top2_baseline,27,6
+60,We should subsidize space exploration,1,top2_baseline,28,3
+60,We should subsidize space exploration,1,top2_baseline,29,4
+60,We should subsidize space exploration,1,top2_baseline,30,1
+60,We should subsidize space exploration,1,top2_golden,31,6
+60,We should subsidize space exploration,1,top2_golden,32,5
+60,We should subsidize space exploration,1,top2_golden,33,2
+60,We should subsidize space exploration,1,top2_golden,34,3
+60,We should subsidize space exploration,1,top2_golden,35,4
+60,We should subsidize space exploration,1,top2_golden,36,1
+61,We should subsidize vocational education,-1,best_golden,1,5
+61,We should subsidize vocational education,-1,best_golden,2,2
+61,We should subsidize vocational education,-1,best_golden,3,1
+61,We should subsidize vocational education,-1,best_golden,4,3
+61,We should subsidize vocational education,-1,best_golden,5,4
+61,We should subsidize vocational education,-1,best_golden,6,6
+61,We should subsidize vocational education,-1,all_baseline,7,3
+61,We should subsidize vocational education,-1,all_baseline,8,2
+61,We should subsidize vocational education,-1,all_baseline,9,5
+61,We should subsidize vocational education,-1,all_baseline,10,4
+61,We should subsidize vocational education,-1,all_baseline,11,1
+61,We should subsidize vocational education,-1,all_baseline,12,6
+61,We should subsidize vocational education,-1,all_golden,13,3
+61,We should subsidize vocational education,-1,all_golden,14,4
+61,We should subsidize vocational education,-1,all_golden,15,6
+61,We should subsidize vocational education,-1,all_golden,16,5
+61,We should subsidize vocational education,-1,all_golden,17,2
+61,We should subsidize vocational education,-1,all_golden,18,1
+61,We should subsidize vocational education,-1,best_baseline,19,3
+61,We should subsidize vocational education,-1,best_baseline,20,4
+61,We should subsidize vocational education,-1,best_baseline,21,1
+61,We should subsidize vocational education,-1,best_baseline,22,6
+61,We should subsidize vocational education,-1,best_baseline,23,2
+61,We should subsidize vocational education,-1,best_baseline,24,5
+61,We should subsidize vocational education,-1,top2_baseline,25,5
+61,We should subsidize vocational education,-1,top2_baseline,26,2
+61,We should subsidize vocational education,-1,top2_baseline,27,6
+61,We should subsidize vocational education,-1,top2_baseline,28,3
+61,We should subsidize vocational education,-1,top2_baseline,29,4
+61,We should subsidize vocational education,-1,top2_baseline,30,1
+61,We should subsidize vocational education,-1,top2_golden,31,6
+61,We should subsidize vocational education,-1,top2_golden,32,5
+61,We should subsidize vocational education,-1,top2_golden,33,2
+61,We should subsidize vocational education,-1,top2_golden,34,3
+61,We should subsidize vocational education,-1,top2_golden,35,4
+61,We should subsidize vocational education,-1,top2_golden,36,1
+62,We should subsidize vocational education,1,best_golden,1,5
+62,We should subsidize vocational education,1,best_golden,2,1
+62,We should subsidize vocational education,1,best_golden,3,2
+62,We should subsidize vocational education,1,best_golden,4,3
+62,We should subsidize vocational education,1,best_golden,5,6
+62,We should subsidize vocational education,1,best_golden,6,4
+62,We should subsidize vocational education,1,all_baseline,7,3
+62,We should subsidize vocational education,1,all_baseline,8,2
+62,We should subsidize vocational education,1,all_baseline,9,5
+62,We should subsidize vocational education,1,all_baseline,10,4
+62,We should subsidize vocational education,1,all_baseline,11,1
+62,We should subsidize vocational education,1,all_baseline,12,6
+62,We should subsidize vocational education,1,all_golden,13,3
+62,We should subsidize vocational education,1,all_golden,14,4
+62,We should subsidize vocational education,1,all_golden,15,6
+62,We should subsidize vocational education,1,all_golden,16,5
+62,We should subsidize vocational education,1,all_golden,17,2
+62,We should subsidize vocational education,1,all_golden,18,1
+62,We should subsidize vocational education,1,best_baseline,19,3
+62,We should subsidize vocational education,1,best_baseline,20,4
+62,We should subsidize vocational education,1,best_baseline,21,1
+62,We should subsidize vocational education,1,best_baseline,22,6
+62,We should subsidize vocational education,1,best_baseline,23,2
+62,We should subsidize vocational education,1,best_baseline,24,5
+62,We should subsidize vocational education,1,top2_baseline,25,5
+62,We should subsidize vocational education,1,top2_baseline,26,2
+62,We should subsidize vocational education,1,top2_baseline,27,6
+62,We should subsidize vocational education,1,top2_baseline,28,4
+62,We should subsidize vocational education,1,top2_baseline,29,1
+62,We should subsidize vocational education,1,top2_baseline,30,3
+62,We should subsidize vocational education,1,top2_golden,31,6
+62,We should subsidize vocational education,1,top2_golden,32,3
+62,We should subsidize vocational education,1,top2_golden,33,4
+62,We should subsidize vocational education,1,top2_golden,34,2
+62,We should subsidize vocational education,1,top2_golden,35,5
+62,We should subsidize vocational education,1,top2_golden,36,1

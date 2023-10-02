@@ -73,7 +73,8 @@ python train.py --model_name roberta-large \
   --eval_batch_size 64 \
   --max_input_length 512 \
   --learning_rate 3e-5 \
-  --sentence_transformer
+  --sentence_transformer \
+  --task_name 'task3'
 ```
 
 ### Task4
