@@ -1,6 +1,12 @@
-# ArgSum-Datatet
-An Multi-task Dataset for End-to-End Argument Summarisation and Evaluation
+# Which Side Are You On? A Multi-task Dataset for End-to-End Argument Summarisation and Evaluation
 
+This work followed the paper publised on ACL 2024
+
+## Ethic approved
+
+This work has received ethical review from the institution under the license number 2024-16577-36845
+
+Due to the suggestion, we will consider release task 1 and task 2's data in a more safety ways. It will be release very soon!
 
 ## Requirements
 - python
