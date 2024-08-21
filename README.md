@@ -1,4 +1,4 @@
-# Which Side Are You On? A Multi-task Dataset for End-to-End Argument Summarisation and Evaluation
+# Which Side Are You On? A Multi-task Dataset for End-to-End Argument Summarisation and Evaluation (ACL2024)
 
 This work followed the paper publised on ACL 2024
 
